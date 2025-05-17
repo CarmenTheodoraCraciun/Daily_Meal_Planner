@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="q7EcJhlZwUalCT-Vwv0jLA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="bucataria.lidl.ro/toate-retetele" DesignTimeRectangle="110, 173, 536, 301" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;article&amp;gt;div&amp;gt;a&amp;gt;div&amp;gt;div' isleaf='1' tag='DIV' /&gt;" Guid="1ed7f6b9-9a28-4834-b318-896bbdfa369a" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Toate retetele | Lidl' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="031c0e40c068f103c149e03b9b8032ff.png" xmlns="">06OzYJKeIgEK4nEx8HWWifw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

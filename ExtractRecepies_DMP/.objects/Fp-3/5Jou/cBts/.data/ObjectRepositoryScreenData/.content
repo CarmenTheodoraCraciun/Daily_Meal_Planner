@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="qVuRuKZZpUy4bbTj3x_odA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-9, -9, 1938, 1038" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAEnQAABJ0Ad5mH3gAAAJLSURBVDhPY0iafOqFR9PBJ8g4qGrrs5LEia/7vYo+9PsUvy9KnPQ6qGrbM3R1KVNOv2DQyNn+gCFg1X8QFvaa979Hz///lmiT/8cmq/1/fZkPjI9NUvu/OdLkf7t+0H8+nwVgtSCsCdILM0DOffr/JY52/99c4/n//wMDVvzygsD/RbYO/8U9Z6MaALJ5iY89Vk3o+N87xv9znJz/8/guQhjQZhj8/9cLZqwasOF3N7n/lxnFQgwwSV/7aFOSKYqCH2vY/n+q5EIRQ8crg63/a+Vse8CQ7tP48up22f/7T2iDMUgSZsCH51xw8cf3hf8fPq0BZr9/xv3/+Ey1/0Fhk58x1DrmvX15g++/ctrk/y7VtWADfh1h+f/Wk///+zvc/8XjZv+vnRf+Xze3+39YW+F/kdi5YAOenRH8X+Ja9pqh2qng7ZPzQmADbEqb/gc1Fv9/F8L3/xmXyP9HhaL/xeMhBmhk9cMNSOjJ+n9ir+r/CufiNwxJfm0vTy9TgTv16Gn1//9eMv7/kM3z//0Tbrj4w7sicC+A8IkFav8TAjpeMBimb3i4IdIMJYCIweuDLf7rZWx+CIlGYAr7+pgdq0Js+MMtrv91BuGIdCDiNff/ElfiE9ICe8f//MAkjZKUFdym/l9mb/v/7XVurBpB+Nlpwf8LLR3+S3jOwswLICwKdEmhRcL/1dlW/49PU/3/9hr3/xdnBP4f6df4vzzD9n+WWSrYZph6sAHYsrNn44EnoCwMys59viXvc1NnvvJsOoCiBoRTppx+AQBUXYROppJ1PwAAAABJRU5ErkJggg==" Selector="&lt;html app='msedge.exe' title='Toate retetele | Lidl' /&gt;" Url="https://bucataria.lidl.ro/toate-retetele" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="d7e478ad13132446534330916579532f.jpg" xmlns="">0pQLPloSPTEe1UZu7rZJNiQ</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

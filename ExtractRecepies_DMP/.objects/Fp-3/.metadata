@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge Toate retetele  Lidl",
+  "Type": "App",
+  "Id": "Fp-3nyZs-UecyGUn4dypyQ",
+  "Reference": "kiF_bg3RYEKi7MiroGFVLw/Fp-3nyZs-UecyGUn4dypyQ",
+  "Created": "2025-05-17T10:57:21.6436304Z",
+  "Updated": "2025-05-17T10:57:21.6436304Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.2.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
