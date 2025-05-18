@@ -1,0 +1,864 @@
+﻿Pentru Prajitura fondanta cu ciocolata: 
+----------
+Pentru Focaccia cu rosii cherry: faina, apa, ulei de masline, sare, drojdie uscata, rosii cherry, rozmarin, busuioc
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: oua, zahar, zahar vanilat, dulceata de afine, faina
+----------
+Pentru Placinta cu branza si spanac: unt, ulei, ceapa verde, spanac, sare, piper, oregano, branza telemea, oua, patrunjel, aluat placinta
+----------
+Pentru Rulouri de zucchini la cuptor: zucchini, sos de rosii, branza ricotta, parmezan ras, usturoi, busuioc, oregano, sare, piper, branza mozzarella, ulei de masline
+----------
+Pentru Rulouri cu crema de ou si branza: 
+----------
+Pentru Pasca cu branza si glazura de ciocolata: 
+----------
+Pentru Gogosi rapide de post: faina, drojdie uscata, zahar, zahar pudra, lapte de cocos, sare, ulei, coaja de lamaie, ulei pentru prajit
+----------
+Pentru Friptura de porc la cuptor MasterPRO: pulpa de porc, ceapa, morcovi, telina, cartofi, vin alb, unt, cimbru, ulei de masline, usturoi
+----------
+Pentru Supa crema de ciuperci MasterPRO: ciuperci champignon, ceapa, usturoi, vin alb, supa de pui, smantana pentru gatit, patrunjel, unt, ulei de masline, otet balsamic
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: 
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: 
+----------
+Pentru Tarta cu afine: faina, unt, apa
+----------
+Pentru Supa de cuscus cu legume: ceapa, morcov, telina apio, pastarnac, ardei capia, telina, mazare, foi de dafin, apa, cuscus, patrunjel, sare, piper
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: 
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: apa minerala, ulei, lapte de migdale, zahar vanilat, zahar, faina, praf de copt, cacao, nuci pecan
+----------
+Pentru Supa crema de mazare: 
+----------
+Pentru Tocinei moldovenesti: 
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: 
+----------
+Pentru Mini Shakshuka gratinate: 
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: 
+----------
+Pentru Pui provensal: ardei gras, ulei, pulpe de pui dezosate, sare, piper, ceapa, usturoi, vin alb, supa de pui, sos de rosii, cimbru, masline
+----------
+Pentru Desert portocale: 
+----------
+Pentru Fursecuri cu unt si ciocolata: 
+----------
+Pentru Desert cu fructe de padure: mix seminte, iaurt de cocos, musli, mix fructe uscate, afine, zmeura
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: faina, unt, zahar, praf de copt, zahar vanilat
+----------
+Pentru Piept de pui cu legume la cuptor: 
+----------
+Pentru Prajitura cu crema de vanilie si cafea: 
+----------
+Pentru Cous Cous cu legume: 
+----------
+Pentru Salata tabbouleh: 
+----------
+Pentru Prajitura fondanta cu ciocolata: ciocolata, unt, oua, zahar, esenta de rom, faina
+----------
+Pentru Focaccia cu rosii cherry: faina, apa, ulei de masline, sare, drojdie uscata, rosii cherry, rozmarin, busuioc
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: 
+----------
+Pentru Placinta cu branza si spanac: unt, ulei, ceapa verde, spanac, sare, piper, oregano, branza telemea, oua, patrunjel, aluat placinta
+----------
+Pentru Rulouri de zucchini la cuptor: 
+----------
+Pentru Rulouri cu crema de ou si branza: branza de vaca, iaurt grecesc, oua, marar, sare, piper, castravete
+----------
+Pentru Pasca cu branza si glazura de ciocolata: branza de vaca, iaurt grecesc, esenta de rom, zahar vanilat, unt, oua, zahar, praf de copt, amidon, frisca lichida, ciocolata neagra, fulgi de ciocolata
+----------
+Pentru Gogosi rapide de post: faina, drojdie uscata, zahar, zahar pudra, lapte de cocos, sare, ulei, coaja de lamaie, ulei pentru prajit
+----------
+Pentru Friptura de porc la cuptor MasterPRO: 
+----------
+Pentru Supa crema de ciuperci MasterPRO: ciuperci champignon, ceapa, usturoi, vin alb, supa de pui, smantana pentru gatit, patrunjel, unt, ulei de masline, otet balsamic
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: fasole alba, ulei, ceapa, praz, morcovi, varza china, sare, piper, apa, fasole alba, suc de rosii, paine
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: faina, zahar, oua, esenta de vanilie, ulei de floarea-soarelui, zeama de lamaie, coaja de lamaie, cacao, lapte, praf de copt, fulgi de ciocolata
+----------
+Pentru Tarta cu afine: faina, unt, apa
+----------
+Pentru Supa de cuscus cu legume: ceapa, morcov, telina apio, pastarnac, ardei capia, telina, mazare, foi de dafin, apa, cuscus, patrunjel, sare, piper
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: cartofi, ulei, sare, piper, usturoi granulat, oregano, ulei, somon file, sfecla rosie, marar, iaurt grecesc, marar, hrean, mustar, miere, zeama de lamaie, salata mixta
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: 
+----------
+Pentru Supa crema de mazare: mazare, ceapa, cartofi, apa, ulei de masline, sare, piper, menta, zeama de lamaie, crutoane
+----------
+Pentru Tocinei moldovenesti: cartof, ou, branza telemea, faina, ulei pentru prajit
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: paste campanelle, bacon de vita, smantana pentru gatit, usturoi, unt, spanac, parmezan
+----------
+Pentru Mini Shakshuka gratinate: aluat foitaj, ardei iute, naut, ulei de masline, ou de prepelita, vanata, ceapa, rosii, branza telemea, condimente
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: somon file, ciuperci, cartofi, unt, lapte, vin alb, cimbru, ceapa, sare, piper
+----------
+Pentru Pui provensal: ardei gras, ulei, pulpe de pui dezosate, sare, piper, ceapa, usturoi, vin alb, supa de pui, sos de rosii, cimbru, masline
+----------
+Pentru Desert portocale: portocale, smantana pentru gatit, zahar pudra, zeama de lamaie, suc de portocale, ciocolata neagra, coaja de portocala
+----------
+Pentru Fursecuri cu unt si ciocolata: unt, zahar pudra, zahar vanilat, galbenusuri, faina, praf de copt
+----------
+Pentru Desert cu fructe de padure: 
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: 
+----------
+Pentru Piept de pui cu legume la cuptor: piept de pui, ierburi aromatice, zeama de lamaie, ulei de masline, sare, piper, broccoli, conopida, ardei gras rosu, ardei gras galben, ardei gras verde, ceapa rosie, dovlecel, usturoi, ulei de masline, sare, piper
+----------
+Pentru Prajitura cu crema de vanilie si cafea: galbenusuri, zahar, amidon, lapte, zahar vanilat, unt, frisca
+----------
+Pentru Cous Cous cu legume: apa, sare, cuscus, ulei, ceapa rosie, morcovi, ardei capia, piper, dovlecel, sos de rosii, patrunjel
+----------
+Pentru Salata tabbouleh: apa, sare, cuscus, patrunjel, rosii, ceapa verde, menta, zeama de lamaie, ulei, piper
+----------
+Pentru Tort cu trufe si portocale: oua, zahar, ulei, faina, cacao, praf de copt
+----------
+Pentru Cotlet de porc umplut cu ciuperci si spanac: cotlet de porc, ciuperci, ceapa, ulei de masline extravirgin, spanac, sare, piper, boia de ardei dulce, cimbru
+----------
+Pentru Batoane cu crema de branza si verdeata: lapte, drojdie, iaurt, albusuri, ulei, faina, sare, unt
+----------
+Pentru Biscuiti de post cu ciocolata: faina, ciocolata, miez de nuca, praf de copt, zahar, ulei, zahar vanilat, lapte de migdale
+----------
+Pentru Cheesecake cu merisoare: biscuiti digestivi, unt, fructe de padure, merisoare, branza mascarpone, crema de branza, frisca lichida, coaja de lamaie, zahar pudra
+----------
+Pentru Fasole cu ciolan: ciolan de porc, ulei, ceapa galbena, morcovi, radacina de patrunjel, sare, piper, oregano, sos de rosii, fasole alba in sos de rosii
+----------
+Pentru Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti: ardei copt
+----------
+Pentru File de peste la cuptor in stil mediteranean: peste file, ulei de masline, usturoi, capere, patrunjel, masline kalamata, rosii cherry, zeama de lamaie, sare, piper, chilli fulgi
+----------
+Pentru Chiftele de linte: ulei, ceapa rosie, usturoi, morcovi, sare, piper, linte, patrunjel, chilli fulgi, oregano, faina
+----------
+Pentru Tort cu mousse de ciocolata si caramel: galbenusuri, zahar, zahar vanilat, apa, albusuri, faina, cacao, praf de copt
+----------
+Pentru Salata calda de legume coapte: cartofi albi, dovlecel, morcovi, ulei de masline, usturoi, sare, piper, patrunjel, lamaie
+----------
+Pentru Cremsnit: galbenusuri, zahar, amidon, zahar vanilat, lapte, unt, aluat foitaj, frisca lichida
+----------
+Pentru Biscuiti in 2 culori: unt, zahar pudra, zahar vanilat, oua, faina, praf de copt, turmeric, cacao
+----------
+Pentru Hummus cu dovleac copt: naut, dovleac, usturoi, ulei de masline, zeama de lamaie, tahini, cuburi de gheata, sare, chimion, chilli pudra, seminte de dovleac
+----------
+Pentru Musaca cu carne de curcan: cartof, sare, lapte, unt, carne tocata de curcan, ardei capia, morcovi, ceapa, sare, piper, oregano, sos de rosii, ulei, sos de rosii, rosie
+----------
+Pentru Budinca de orez cu mere: sirop de soc, mere golden, orez bob rotund, oua, zahar, pastaie de vanilie, unt, lapte
+----------
+Pentru Tocanita de ceapa: ceapa alba, unt, rosii, usturoi, ulei de floarea-soarelui, paine, vin alb, zahar, bulion
+----------
+Pentru Mancarica de prune cu orez: compot de prune, prune uscate, orez bob lung, cascaval afumat, ceapa, unt, ulei de masline
+----------
+Pentru Halva de casa: lapte praf, zahar pudra, afinata, dulceata de afine, fistic, miez de nuca, tahini, susan, seminte de floarea-soarelui
+----------
+Pentru Tarta cu nuci pecan: faina, zahar pudra vanilat, zahar vanilat, unt, ou
+----------
+Pentru Hamburger cu bacon crocant si ou prajit: carne tocata de vita, branza cheddar, bacon, oua, chifle hamburger, salata verde, sos de rosii, maioneza, sare, piper
+----------
+Pentru Cheesecake stracciatella: biscuiti Neo, unt
+----------
+Pentru Ciorba radauteana: carne de pui, apa, sare, ceapa, pastarnac, morcovi, ardei capia, telina, smantana 20%, galbenusuri, usturoi, patrunjel
+----------
+Pentru Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat: antricot de vanat, rozmarin, foi de dafin, esalota, sare, ulei, supa de carne, boabe de ienupar, cartofi, morcovi, amidon, gem de coacaze, unt, unt clarificat, piper, patrunjel
+----------
+Pentru Sekana (chiftea ceheasca): bagheta, ceapa, unt, carne tocata, ou, sare, piper, rosii pasate, mustar, boia de ardei dulce, boia de ardei iute, supa de vita
+----------
+Pentru Rijstevlaai (prajitura olandeza cu orez): unt, lapte, budinca de orez, gelatina alimentara, zahar, zahar vanilat, sare, oua
+----------
+Pentru Gulas unguresc condimentat: varza murata, ceapa, ulei, carne de porc, faina, supa de carne, boia de ardei dulce, boia de ardei iute, chimen, ienibahar, sare, piper negru, ardei gras rosu, smantana
+----------
+Pentru Cartofi dulci la cuptor: ceapa, telina, castane, cimbru, ulei de rapita, sare, piper, cartofi dulci, napi, lapte, branza feta, patrunjel
+----------
+Pentru Muschiulet de porc cu sos de Gorgonzola cu mascarpone: muschiulet de porc, ceapa alba, branza gorgonzola, branza mascarpone, unt, usturoi, cimbru, smantana pentru gatit
+----------
+Pentru Risotto alb cu Pecorino si galbenus: orez pentru risotto, ceapa, oua, branza pecorino, unt, supa de legume, sare, piper
+----------
+Pentru Tajine de pui: pulpe de pui, boia de ardei dulce, boia de ardei iute, morcov, telina, ceapa, curmale Medjoul, vin rosu, coriandru, chimen, ienibahar, ulei de masline, orez
+----------
+Pentru Lasagna cu sos de branza Cremeux de Normandie: lapte, unt, faina, branza cremeaux de normandie, foaie de lasagna, parmezan
+----------
+Pentru Cartofi umpluti cu crema de branza si icre: cartofi albi noi, crema de branza, ulei de masline, unt, icre negre, icre rosii, sare, piper, ceapa verde
+----------
+Pentru Supa crema de usturoi cu trufe: cartofi, ceapa, usturoi, lapte, unt, ulei de masline cu trufe, sos de trufe alb, sos de trufe, sare cu trufe, bacon, bagheta
+----------
+Pentru Caracatita cu fistic si cartofi: fistic, caracatita, cartofi albi noi, ceapa rosie, otet de vin, ulei de masline, ardei iute
+----------
+Pentru Homar gratinat cu orez negru: oua, homar, unt, ulei de masline, lamai, ceapa verde, ceapa, orez negru, sare
+----------
+Pentru Panna Cotta cu caramel si crema de lichior: smantana pentru gatit, gelatina alimentara, zahar, unt, vinars, lichior crema whisky, sare, pastaie de vanilie
+----------
+Pentru Placintele cu mere in aluat de foitaj: aluat foitaj, mere, zahar, scortisoara, galbenus, lapte
+----------
+Pentru Patratele cheesecake cu dovleac: dovleac
+----------
+Pentru File de dorada cu legume: dorada, ceapa, ardei gras, sparanghel, lamai, ulei de masline, rosii cherry, busuioc, vin alb, unt
+----------
+Pentru Pui intreg la cuptor: carne de pui, boia de ardei, cimbru, rozmarin, usturoi, ulei de masline, unt, piper negru boabe
+----------
+Pentru Sufleu de mere: faina, oua, mere golden, zahar, esenta de vanilie, scortisoara macinata, praf de copt, zahar pudra
+----------
+Pentru Ton provensal: ton file, rosii, ceapa rosie, masline, capere, busuioc, ulei de masline
+----------
+Pentru Fricasse de pui: piept de pui, ceapa, praz, unt, ciuperci, smantana pentru gatit, vin alb, ceapa verde
+----------
+Pentru Pui la cuptor in sos salsa brava: pulpe de pui dezosate, ardei gras rosu, masline, ulei de masline, boia de ardei dulce, boia de ardei iute, usturoi, sare, piper, zeama de lamaie, oregano, supa de pui
+----------
+Pentru Quiche cu spanac, somon si ricotta: faina, unt, sare, piper, oregano, apa
+----------
+Pentru Tarta rasturnata cu ciocolata si prune: unt, zahar, prune
+----------
+Pentru Batoane cu banane si fulgi de ovaz: banane, lapte de migdale, zahar vanilat, stafide, ciocolata neagra, fulgi de ovaz
+----------
+Pentru Tarta cu branza dulce si fructe de padure: ulei, zahar, zahar vanilat, portocala, oua, faina, praf de copt, branza proaspata, zahar pudra, zahar vanilat, zmeura, afine, coacaze rosii
+----------
+Pentru Gofre cu spanac: oua, chefir, faina, baby spanac, sare
+----------
+Pentru Rulada Stromboli: aluat pizza, sos de rosii, oregano, piper, branza mozzarella, prosciutto cotto, parmezan, unt
+----------
+Pentru Tarta trio de ciocolata: biscuiti cu unt, zahar vanilat, unt
+----------
+Pentru Briose cu crema si fructe proaspete: faina, unt, zahar, oua, extract de vanilie, praf de copt, sare, iaurt, fulgi de ciocolata
+----------
+Pentru Pachetele cu vinete, ardei si feta: ardei gras, vinete, sare, ulei, ulei pentru prajit, usturoi, ardei iute, cimbru, rozmarin, busuioc, oregano, chilli fulgi, zeama de lamaie, rosii, branza feta
+----------
+Pentru Gyros cu carne de porc si cu sos tzatziki: muschiulet de porc
+----------
+Pentru Salata de vinete la grill cu spanac: vanata, sare, piper, spanac, miez de nuca, ulei de masline, zeama de lamaie, usturoi, branza feta
+----------
+Pentru Croissant cu afine si caramel: aluat croissant, oua, zahar vanilat, scortisoara, frisca lichida
+----------
+Pentru Salata de pui cu mustar, miere si avocado: piept de pui
+----------
+Pentru Morcovi la cuptor cu parmezan si patrunjel: morcovi, ulei de masline, parmezan ras, sare, piper, usturoi granulat, patrunjel
+----------
+Pentru Sendvis cu mozzarela si friptura de vita la gratar: sos de soia, ulei de masline, zeama de lamaie, usturoi, sare, piper, oregano, chilli fulgi, friptura de vita, ulei, ceapa, ardei gras galben, ardei gras verde, ardei gras rosu, paine ciabatta, iaurt grecesc, castraveti murati, branza mozzarella, patrunjel
+----------
+Pentru Grisine cu parmezan si mac: faina, gris de grau, zahar, sare, drojdie, apa, parmezan, mac, ulei
+----------
+Pentru Cheesecake cu sos de capsuni: biscuiti digestivi, unt
+----------
+Pentru Cotlet de porc la gratar cu sos de patrunjel, usturoi si iaurt: cotlet de porc, usturoi, ulei, patrunjel, iaurt grecesc, sare, piper, oregano
+----------
+Pentru Rosii umplute: rosii, ulei de masline, ceapa alba, usturoi, orez, pasta de rosii, branza feta, patrunjel, sos de rosii, sare, piper
+----------
+Pentru Prajitura cu biscuiti: galbenusuri, zahar, amidon, lapte, zahar vanilat, unt, ciocolata, esenta de rom
+----------
+Pentru Pancakes pufoase cu ricotta: oua, branza ricotta, sirop de agave, zeama de lamaie, coaja de lamaie, praf de copt, esenta de vanilie, lapte, faina
+----------
+Pentru Sendvis Caesar cu pui: iaurt grecesc, parmezan, usturoi, maioneza, mustar, soia, zeama de lamaie, sare, piper, piept de pui, paine ciabatta, usturoi, salata verde
+----------
+Pentru Tarta cu ciocolata si fructe de padure: biscuiti cu ovaz, unt
+----------
+Pentru Brownie cu nuci: mere, zahar vanilat, oua, miez de nuca, migdale, praf de copt, cacao
+----------
+Pentru Pandispan cu afine si bezea: oua, faina, zahar, esenta de rom, coaja de lamaie, praf de copt
+----------
+Pentru Desert cu mango si ciocolata: biscuiti cu ovaz, unt
+----------
+Pentru Cartofi crocanti, la cuptor: cartofi, sare, piper, oregano, ulei
+----------
+Pentru Prajitura fondanta cu ciocolata: ciocolata, unt, oua, zahar, esenta de rom, faina
+----------
+Pentru Focaccia cu rosii cherry: faina, apa, ulei de masline, sare, drojdie uscata, rosii cherry, rozmarin, busuioc
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: oua, zahar, zahar vanilat, dulceata de afine, faina
+----------
+Pentru Placinta cu branza si spanac: unt, ulei, ceapa verde, spanac, sare, piper, oregano, branza telemea, oua, patrunjel, aluat placinta
+----------
+Pentru Rulouri de zucchini la cuptor: zucchini, sos de rosii, branza ricotta, parmezan ras, usturoi, busuioc, oregano, sare, piper, branza mozzarella, ulei de masline
+----------
+Pentru Rulouri cu crema de ou si branza: branza de vaca, iaurt grecesc, oua, marar, sare, piper, castravete
+----------
+Pentru Pasca cu branza si glazura de ciocolata: branza de vaca, iaurt grecesc, esenta de rom, zahar vanilat, unt, oua, zahar, praf de copt, amidon, frisca lichida, ciocolata neagra, fulgi de ciocolata
+----------
+Pentru Gogosi rapide de post: faina, drojdie uscata, zahar, zahar pudra, lapte de cocos, sare, ulei, coaja de lamaie, ulei pentru prajit
+----------
+Pentru Friptura de porc la cuptor MasterPRO: pulpa de porc, ceapa, morcovi, telina, cartofi, vin alb, unt, cimbru, ulei de masline, usturoi
+----------
+Pentru Supa crema de ciuperci MasterPRO: ciuperci champignon, ceapa, usturoi, vin alb, supa de pui, smantana pentru gatit, patrunjel, unt, ulei de masline, otet balsamic
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: fasole alba, ulei, ceapa, praz, morcovi, varza china, sare, piper, apa, fasole alba, suc de rosii, paine
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: faina, zahar, oua, esenta de vanilie, ulei de floarea-soarelui, zeama de lamaie, coaja de lamaie, cacao, lapte, praf de copt, fulgi de ciocolata
+----------
+Pentru Tarta cu afine: faina, unt, apa
+----------
+Pentru Supa de cuscus cu legume: ceapa, morcov, telina apio, pastarnac, ardei capia, telina, mazare, foi de dafin, apa, cuscus, patrunjel, sare, piper
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: cartofi, ulei, sare, piper, usturoi granulat, oregano, ulei, somon file, sfecla rosie, marar, iaurt grecesc, marar, hrean, mustar, miere, zeama de lamaie, salata mixta
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: apa minerala, ulei, lapte de migdale, zahar vanilat, zahar, faina, praf de copt, cacao, nuci pecan
+----------
+Pentru Supa crema de mazare: mazare, ceapa, cartofi, apa, ulei de masline, sare, piper, menta, zeama de lamaie, crutoane
+----------
+Pentru Tocinei moldovenesti: cartof, ou, branza telemea, faina, ulei pentru prajit
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: paste campanelle, bacon de vita, smantana pentru gatit, usturoi, unt, spanac, parmezan
+----------
+Pentru Mini Shakshuka gratinate: aluat foitaj, ardei iute, naut, ulei de masline, ou de prepelita, vanata, ceapa, rosii, branza telemea, condimente
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: somon file, ciuperci, cartofi, unt, lapte, vin alb, cimbru, ceapa, sare, piper
+----------
+Pentru Pui provensal: ardei gras, ulei, pulpe de pui dezosate, sare, piper, ceapa, usturoi, vin alb, supa de pui, sos de rosii, cimbru, masline
+----------
+Pentru Desert portocale: portocale, smantana pentru gatit, zahar pudra, zeama de lamaie, suc de portocale, ciocolata neagra, coaja de portocala
+----------
+Pentru Fursecuri cu unt si ciocolata: unt, zahar pudra, zahar vanilat, galbenusuri, faina, praf de copt
+----------
+Pentru Desert cu fructe de padure: mix seminte, iaurt de cocos, musli, mix fructe uscate, afine, zmeura
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: faina, unt, zahar, praf de copt, zahar vanilat
+----------
+Pentru Piept de pui cu legume la cuptor: piept de pui, ierburi aromatice, zeama de lamaie, ulei de masline, sare, piper, broccoli, conopida, ardei gras rosu, ardei gras galben, ardei gras verde, ceapa rosie, dovlecel, usturoi, ulei de masline, sare, piper
+----------
+Pentru Prajitura cu crema de vanilie si cafea: galbenusuri, zahar, amidon, lapte, zahar vanilat, unt, frisca
+----------
+Pentru Cous Cous cu legume: apa, sare, cuscus, ulei, ceapa rosie, morcovi, ardei capia, piper, dovlecel, sos de rosii, patrunjel
+----------
+Pentru Salata tabbouleh: apa, sare, cuscus, patrunjel, rosii, ceapa verde, menta, zeama de lamaie, ulei, piper
+----------
+Pentru Tort cu trufe si portocale: oua, zahar, ulei, faina, cacao, praf de copt
+----------
+Pentru Cotlet de porc umplut cu ciuperci si spanac: cotlet de porc, ciuperci, ceapa, ulei de masline extravirgin, spanac, sare, piper, boia de ardei dulce, cimbru
+----------
+Pentru Batoane cu crema de branza si verdeata: lapte, drojdie, iaurt, albusuri, ulei, faina, sare, unt
+----------
+Pentru Biscuiti de post cu ciocolata: faina, ciocolata, miez de nuca, praf de copt, zahar, ulei, zahar vanilat, lapte de migdale
+----------
+Pentru Cheesecake cu merisoare: biscuiti digestivi, unt, fructe de padure, merisoare, branza mascarpone, crema de branza, frisca lichida, coaja de lamaie, zahar pudra
+----------
+Pentru Fasole cu ciolan: ciolan de porc, ulei, ceapa galbena, morcovi, radacina de patrunjel, sare, piper, oregano, sos de rosii, fasole alba in sos de rosii
+----------
+Pentru Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti: ardei copt
+----------
+Pentru File de peste la cuptor in stil mediteranean: peste file, ulei de masline, usturoi, capere, patrunjel, masline kalamata, rosii cherry, zeama de lamaie, sare, piper, chilli fulgi
+----------
+Pentru Chiftele de linte: ulei, ceapa rosie, usturoi, morcovi, sare, piper, linte, patrunjel, chilli fulgi, oregano, faina
+----------
+Pentru Tort cu mousse de ciocolata si caramel: galbenusuri, zahar, zahar vanilat, apa, albusuri, faina, cacao, praf de copt
+----------
+Pentru Salata calda de legume coapte: cartofi albi, dovlecel, morcovi, ulei de masline, usturoi, sare, piper, patrunjel, lamaie
+----------
+Pentru Cremsnit: galbenusuri, zahar, amidon, zahar vanilat, lapte, unt, aluat foitaj, frisca lichida
+----------
+Pentru Biscuiti in 2 culori: unt, zahar pudra, zahar vanilat, oua, faina, praf de copt, turmeric, cacao
+----------
+Pentru Hummus cu dovleac copt: naut, dovleac, usturoi, ulei de masline, zeama de lamaie, tahini, cuburi de gheata, sare, chimion, chilli pudra, seminte de dovleac
+----------
+Pentru Musaca cu carne de curcan: cartof, sare, lapte, unt, carne tocata de curcan, ardei capia, morcovi, ceapa, sare, piper, oregano, sos de rosii, ulei, sos de rosii, rosie
+----------
+Pentru Budinca de orez cu mere: sirop de soc, mere golden, orez bob rotund, oua, zahar, pastaie de vanilie, unt, lapte
+----------
+Pentru Tocanita de ceapa: ceapa alba, unt, rosii, usturoi, ulei de floarea-soarelui, paine, vin alb, zahar, bulion
+----------
+Pentru Mancarica de prune cu orez: compot de prune, prune uscate, orez bob lung, cascaval afumat, ceapa, unt, ulei de masline
+----------
+Pentru Halva de casa: lapte praf, zahar pudra, afinata, dulceata de afine, fistic, miez de nuca, tahini, susan, seminte de floarea-soarelui
+----------
+Pentru Tarta cu nuci pecan: faina, zahar pudra vanilat, zahar vanilat, unt, ou
+----------
+Pentru Hamburger cu bacon crocant si ou prajit: carne tocata de vita, branza cheddar, bacon, oua, chifle hamburger, salata verde, sos de rosii, maioneza, sare, piper
+----------
+Pentru Cheesecake stracciatella: biscuiti Neo, unt
+----------
+Pentru Ciorba radauteana: carne de pui, apa, sare, ceapa, pastarnac, morcovi, ardei capia, telina, smantana 20%, galbenusuri, usturoi, patrunjel
+----------
+Pentru Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat: antricot de vanat, rozmarin, foi de dafin, esalota, sare, ulei, supa de carne, boabe de ienupar, cartofi, morcovi, amidon, gem de coacaze, unt, unt clarificat, piper, patrunjel
+----------
+Pentru Sekana (chiftea ceheasca): bagheta, ceapa, unt, carne tocata, ou, sare, piper, rosii pasate, mustar, boia de ardei dulce, boia de ardei iute, supa de vita
+----------
+Pentru Rijstevlaai (prajitura olandeza cu orez): unt, lapte, budinca de orez, gelatina alimentara, zahar, zahar vanilat, sare, oua
+----------
+Pentru Gulas unguresc condimentat: varza murata, ceapa, ulei, carne de porc, faina, supa de carne, boia de ardei dulce, boia de ardei iute, chimen, ienibahar, sare, piper negru, ardei gras rosu, smantana
+----------
+Pentru Cartofi dulci la cuptor: ceapa, telina, castane, cimbru, ulei de rapita, sare, piper, cartofi dulci, napi, lapte, branza feta, patrunjel
+----------
+Pentru Muschiulet de porc cu sos de Gorgonzola cu mascarpone: muschiulet de porc, ceapa alba, branza gorgonzola, branza mascarpone, unt, usturoi, cimbru, smantana pentru gatit
+----------
+Pentru Risotto alb cu Pecorino si galbenus: orez pentru risotto, ceapa, oua, branza pecorino, unt, supa de legume, sare, piper
+----------
+Pentru Tajine de pui: 
+----------
+Pentru Lasagna cu sos de branza Cremeux de Normandie: lapte, unt, faina, branza cremeaux de normandie, foaie de lasagna, parmezan
+----------
+Pentru Cartofi umpluti cu crema de branza si icre: cartofi albi noi, crema de branza, ulei de masline, unt, icre negre, icre rosii, sare, piper, ceapa verde
+----------
+Pentru Supa crema de usturoi cu trufe: 
+----------
+Pentru Caracatita cu fistic si cartofi: fistic, caracatita, cartofi albi noi, ceapa rosie, otet de vin, ulei de masline, ardei iute
+----------
+Pentru Homar gratinat cu orez negru: 
+----------
+Pentru Prajitura fondanta cu ciocolata: ciocolata, unt, oua, zahar, esenta de rom, faina
+----------
+Pentru Focaccia cu rosii cherry: 
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: 
+----------
+Pentru Placinta cu branza si spanac: unt, ulei, ceapa verde, spanac, sare, piper, oregano, branza telemea, oua, patrunjel, aluat placinta
+----------
+Pentru Rulouri de zucchini la cuptor: zucchini, sos de rosii, branza ricotta, parmezan ras, usturoi, busuioc, oregano, sare, piper, branza mozzarella, ulei de masline
+----------
+Pentru Rulouri cu crema de ou si branza: 
+----------
+Pentru Pasca cu branza si glazura de ciocolata: 
+----------
+Pentru Gogosi rapide de post: 
+----------
+Pentru Friptura de porc la cuptor MasterPRO: pulpa de porc, ceapa, morcovi, telina, cartofi, vin alb, unt, cimbru, ulei de masline, usturoi
+----------
+Pentru Supa crema de ciuperci MasterPRO: 
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: fasole alba, ulei, ceapa, praz, morcovi, varza china, sare, piper, apa, fasole alba, suc de rosii, paine
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: 
+----------
+Pentru Tarta cu afine: faina, unt, apa
+----------
+Pentru Supa de cuscus cu legume: 
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: 
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: apa minerala, ulei, lapte de migdale, zahar vanilat, zahar, faina, praf de copt, cacao, nuci pecan
+----------
+Pentru Supa crema de mazare: mazare, ceapa, cartofi, apa, ulei de masline, sare, piper, menta, zeama de lamaie, crutoane
+----------
+Pentru Tocinei moldovenesti: cartof, ou, branza telemea, faina, ulei pentru prajit
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: paste campanelle, bacon de vita, smantana pentru gatit, usturoi, unt, spanac, parmezan
+----------
+Pentru Mini Shakshuka gratinate: aluat foitaj, ardei iute, naut, ulei de masline, ou de prepelita, vanata, ceapa, rosii, branza telemea, condimente
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: somon file, ciuperci, cartofi, unt, lapte, vin alb, cimbru, ceapa, sare, piper
+----------
+Pentru Pui provensal: ardei gras, ulei, pulpe de pui dezosate, sare, piper, ceapa, usturoi, vin alb, supa de pui, sos de rosii, cimbru, masline
+----------
+Pentru Desert portocale: portocale, smantana pentru gatit, zahar pudra, zeama de lamaie, suc de portocale, ciocolata neagra, coaja de portocala
+----------
+Pentru Fursecuri cu unt si ciocolata: unt, zahar pudra, zahar vanilat, galbenusuri, faina, praf de copt
+----------
+Pentru Desert cu fructe de padure: mix seminte, iaurt de cocos, musli, mix fructe uscate, afine, zmeura
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: faina, unt, zahar, praf de copt, zahar vanilat
+----------
+Pentru Piept de pui cu legume la cuptor: piept de pui, ierburi aromatice, zeama de lamaie, ulei de masline, sare, piper, broccoli, conopida, ardei gras rosu, ardei gras galben, ardei gras verde, ceapa rosie, dovlecel, usturoi, ulei de masline, sare, piper
+----------
+Pentru Prajitura cu crema de vanilie si cafea: 
+----------
+Pentru Cous Cous cu legume: apa, sare, cuscus, ulei, ceapa rosie, morcovi, ardei capia, piper, dovlecel, sos de rosii, patrunjel
+----------
+Pentru Salata tabbouleh: 
+----------
+Pentru Tort cu trufe si portocale: 
+----------
+Pentru Cotlet de porc umplut cu ciuperci si spanac: cotlet de porc, ciuperci, ceapa, ulei de masline extravirgin, spanac, sare, piper, boia de ardei dulce, cimbru
+----------
+Pentru Batoane cu crema de branza si verdeata: lapte, drojdie, iaurt, albusuri, ulei, faina, sare, unt
+----------
+Pentru Biscuiti de post cu ciocolata: faina, ciocolata, miez de nuca, praf de copt, zahar, ulei, zahar vanilat, lapte de migdale
+----------
+Pentru Cheesecake cu merisoare: 
+----------
+Pentru Fasole cu ciolan: ciolan de porc, ulei, ceapa galbena, morcovi, radacina de patrunjel, sare, piper, oregano, sos de rosii, fasole alba in sos de rosii
+----------
+Pentru Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti: 
+----------
+Pentru File de peste la cuptor in stil mediteranean: peste file, ulei de masline, usturoi, capere, patrunjel, masline kalamata, rosii cherry, zeama de lamaie, sare, piper, chilli fulgi
+----------
+Pentru Chiftele de linte: ulei, ceapa rosie, usturoi, morcovi, sare, piper, linte, patrunjel, chilli fulgi, oregano, faina
+----------
+Pentru Tort cu mousse de ciocolata si caramel: 
+----------
+Pentru Salata calda de legume coapte: cartofi albi, dovlecel, morcovi, ulei de masline, usturoi, sare, piper, patrunjel, lamaie
+----------
+Pentru Cremsnit: 
+----------
+Pentru Biscuiti in 2 culori: unt, zahar pudra, zahar vanilat, oua, faina, praf de copt, turmeric, cacao
+----------
+Pentru Hummus cu dovleac copt: naut, dovleac, usturoi, ulei de masline, zeama de lamaie, tahini, cuburi de gheata, sare, chimion, chilli pudra, seminte de dovleac
+----------
+Pentru Musaca cu carne de curcan: 
+----------
+Pentru Budinca de orez cu mere: 
+----------
+Pentru Tocanita de ceapa: 
+----------
+Pentru Mancarica de prune cu orez: 
+----------
+Pentru Halva de casa: 
+----------
+Pentru Tarta cu nuci pecan: faina, zahar pudra vanilat, zahar vanilat, unt, ou
+----------
+Pentru Hamburger cu bacon crocant si ou prajit: 
+----------
+Pentru Cheesecake stracciatella: 
+----------
+Pentru Ciorba radauteana: carne de pui, apa, sare, ceapa, pastarnac, morcovi, ardei capia, telina, smantana 20%, galbenusuri, usturoi, patrunjel
+----------
+Pentru Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat: antricot de vanat, rozmarin, foi de dafin, esalota, sare, ulei, supa de carne, boabe de ienupar, cartofi, morcovi, amidon, gem de coacaze, unt, unt clarificat, piper, patrunjel
+----------
+Pentru Sekana (chiftea ceheasca): bagheta, ceapa, unt, carne tocata, ou, sare, piper, rosii pasate, mustar, boia de ardei dulce, boia de ardei iute, supa de vita
+----------
+Pentru Rijstevlaai (prajitura olandeza cu orez): unt, lapte, budinca de orez, gelatina alimentara, zahar, zahar vanilat, sare, oua
+----------
+Pentru Gulas unguresc condimentat: varza murata, ceapa, ulei, carne de porc, faina, supa de carne, boia de ardei dulce, boia de ardei iute, chimen, ienibahar, sare, piper negru, ardei gras rosu, smantana
+----------
+Pentru Cartofi dulci la cuptor: ceapa, telina, castane, cimbru, ulei de rapita, sare, piper, cartofi dulci, napi, lapte, branza feta, patrunjel
+----------
+Pentru Muschiulet de porc cu sos de Gorgonzola cu mascarpone: muschiulet de porc, ceapa alba, branza gorgonzola, branza mascarpone, unt, usturoi, cimbru, smantana pentru gatit
+----------
+Pentru Risotto alb cu Pecorino si galbenus: orez pentru risotto, ceapa, oua, branza pecorino, unt, supa de legume, sare, piper
+----------
+Pentru Tajine de pui: pulpe de pui, boia de ardei dulce, boia de ardei iute, morcov, telina, ceapa, curmale Medjoul, vin rosu, coriandru, chimen, ienibahar, ulei de masline, orez
+----------
+Pentru Lasagna cu sos de branza Cremeux de Normandie: lapte, unt, faina, branza cremeaux de normandie, foaie de lasagna, parmezan
+----------
+Pentru Cartofi umpluti cu crema de branza si icre: cartofi albi noi, crema de branza, ulei de masline, unt, icre negre, icre rosii, sare, piper, ceapa verde
+----------
+Pentru Supa crema de usturoi cu trufe: cartofi, ceapa, usturoi, lapte, unt, ulei de masline cu trufe, sos de trufe alb, sos de trufe, sare cu trufe, bacon, bagheta
+----------
+Pentru Caracatita cu fistic si cartofi: fistic, caracatita, cartofi albi noi, ceapa rosie, otet de vin, ulei de masline, ardei iute
+----------
+Pentru Homar gratinat cu orez negru: 
+----------
+Pentru Prajitura fondanta cu ciocolata: 
+----------
+Pentru Focaccia cu rosii cherry: faina, apa, ulei de masline, sare, drojdie uscata, rosii cherry, rozmarin, busuioc
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: 
+----------
+Pentru Placinta cu branza si spanac: 
+----------
+Pentru Rulouri de zucchini la cuptor: 
+----------
+Pentru Rulouri cu crema de ou si branza: branza de vaca, iaurt grecesc, oua, marar, sare, piper, castravete
+----------
+Pentru Pasca cu branza si glazura de ciocolata: branza de vaca, iaurt grecesc, esenta de rom, zahar vanilat, unt, oua, zahar, praf de copt, amidon, frisca lichida, ciocolata neagra, fulgi de ciocolata
+----------
+Pentru Gogosi rapide de post: faina, drojdie uscata, zahar, zahar pudra, lapte de cocos, sare, ulei, coaja de lamaie, ulei pentru prajit, zahar brun, scortisoara macinata
+----------
+Pentru Friptura de porc la cuptor MasterPRO: pulpa de porc, ceapa, morcovi, telina, cartofi, vin alb, unt, cimbru, ulei de masline, usturoi
+----------
+Pentru Supa crema de ciuperci MasterPRO: ciuperci champignon, ceapa, usturoi, vin alb, supa de pui, smantana pentru gatit, patrunjel, unt, ulei de masline, otet balsamic
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: fasole alba, ulei, ceapa, praz, morcovi, varza china, sare, piper, apa, fasole alba, suc de rosii, paine
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: faina, zahar, oua, esenta de vanilie, ulei de floarea-soarelui, zeama de lamaie, coaja de lamaie, cacao, lapte, praf de copt, fulgi de ciocolata
+----------
+Pentru Tarta cu afine: faina, unt, apa, afine, zahar, amidon, frisca, inghetata cu vanilie
+----------
+Pentru Supa de cuscus cu legume: ceapa, morcov, telina apio, pastarnac, ardei capia, telina, mazare, foi de dafin, apa, cuscus, patrunjel, sare, piper
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: cartofi, ulei, sare, piper, usturoi granulat, oregano, ulei, somon file, sfecla rosie, marar, iaurt grecesc, marar, hrean, mustar, miere, zeama de lamaie, salata mixta
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: apa minerala, ulei, lapte de migdale, zahar vanilat, zahar, faina, praf de copt, cacao, nuci pecan
+----------
+Pentru Supa crema de mazare: mazare, ceapa, cartofi, apa, ulei de masline, sare, piper, menta, zeama de lamaie, crutoane
+----------
+Pentru Tocinei moldovenesti: cartof, ou, branza telemea, faina, ulei pentru prajit, salata, rosii cherry, smantana, marar
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: paste campanelle, bacon de vita, smantana pentru gatit, usturoi, unt, spanac, parmezan
+----------
+Pentru Mini Shakshuka gratinate: aluat foitaj, ardei iute, naut, ulei de masline, ou de prepelita, vanata, ceapa, rosii, branza telemea, condimente
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: somon file, ciuperci, cartofi, unt, lapte, vin alb, cimbru, ceapa, sare, piper
+----------
+Pentru Pui provensal: ardei gras, ulei, pulpe de pui dezosate, sare, piper, ceapa, usturoi, vin alb, supa de pui, sos de rosii, cimbru, masline
+----------
+Pentru Desert portocale: portocale, smantana pentru gatit, zahar pudra, zeama de lamaie, suc de portocale, ciocolata neagra, coaja de portocala
+----------
+Pentru Fursecuri cu unt si ciocolata: unt, zahar pudra, zahar vanilat, galbenusuri, faina, praf de copt, ciocolata, coaja de portocala, decoratii din zahar
+----------
+Pentru Desert cu fructe de padure: mix seminte, iaurt de cocos, musli, mix fructe uscate, afine, zmeura
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: faina, unt, zahar, praf de copt, zahar vanilat, branza ricotta, zahar, zahar vanilat, cacao, esenta de rom, ou
+----------
+Pentru Piept de pui cu legume la cuptor: piept de pui, ierburi aromatice, zeama de lamaie, ulei de masline, sare, piper, broccoli, conopida, ardei gras rosu, ardei gras galben, ardei gras verde, ceapa rosie, dovlecel, usturoi, ulei de masline, sare, piper
+----------
+Pentru Prajitura cu crema de vanilie si cafea: galbenusuri, zahar, amidon, lapte, zahar vanilat, unt, frisca, cafea instant, cacao, lapte, ciocolata, frisca lichida, biscuiti
+----------
+Pentru Cous Cous cu legume: apa, sare, cuscus, ulei, ceapa rosie, morcovi, ardei capia, piper, dovlecel, sos de rosii, patrunjel
+----------
+Pentru Salata tabbouleh: apa, sare, cuscus, patrunjel, rosii, ceapa verde, menta, zeama de lamaie, ulei, piper
+----------
+Pentru Tort cu trufe si portocale: 
+----------
+Pentru Cotlet de porc umplut cu ciuperci si spanac: cotlet de porc, ciuperci, ceapa, ulei de masline extravirgin, spanac, sare, piper, boia de ardei dulce, cimbru
+----------
+Pentru Batoane cu crema de branza si verdeata: lapte, drojdie, iaurt, albusuri, ulei, faina, sare, unt, branza proaspata, smantana, marar, patrunjel, ou, sare, piper, oregano, galbenusuri, seminte de susan
+----------
+Pentru Biscuiti de post cu ciocolata: faina, ciocolata, miez de nuca, praf de copt, zahar, ulei, zahar vanilat, lapte de migdale
+----------
+Pentru Cheesecake cu merisoare: biscuiti digestivi, unt, fructe de padure, merisoare, branza mascarpone, crema de branza, frisca lichida, coaja de lamaie, zahar pudra, merisoare, coacaze negre, coacaze rosii
+----------
+Pentru Fasole cu ciolan: ciolan de porc, ulei, ceapa galbena, morcovi, radacina de patrunjel, sare, piper, oregano, sos de rosii, fasole alba in sos de rosii
+----------
+Pentru Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti: ardei copt, cartofi, usturoi granulat, ulei, oregano, sare, piper, pulpe de curcan, ulei, usturoi, oregano, sare, piper, vin alb
+----------
+Pentru File de peste la cuptor in stil mediteranean: peste file, ulei de masline, usturoi, capere, patrunjel, masline kalamata, rosii cherry, zeama de lamaie, sare, piper, chilli fulgi
+----------
+Pentru Chiftele de linte: ulei, ceapa rosie, usturoi, morcovi, sare, piper, linte, patrunjel, chilli fulgi, oregano, faina
+----------
+Pentru Tort cu mousse de ciocolata si caramel: galbenusuri, zahar, zahar vanilat, apa, albusuri, faina, cacao, praf de copt, apa, zahar, zahar vanilat, esenta de rom, ciocolata, frisca lichida, frisca
+----------
+Pentru Salata calda de legume coapte: cartofi albi, dovlecel, morcovi, ulei de masline, usturoi, sare, piper, patrunjel, lamaie
+----------
+Pentru Cremsnit: galbenusuri, zahar, amidon, zahar vanilat, lapte, unt, aluat foitaj, frisca lichida
+----------
+Pentru Biscuiti in 2 culori: unt, zahar pudra, zahar vanilat, oua, faina, praf de copt, turmeric, cacao
+----------
+Pentru Hummus cu dovleac copt: naut, dovleac, usturoi, ulei de masline, zeama de lamaie, tahini, cuburi de gheata, sare, chimion, chilli pudra, seminte de dovleac
+----------
+Pentru Musaca cu carne de curcan: cartof, sare, lapte, unt, carne tocata de curcan, ardei capia, morcovi, ceapa, sare, piper, oregano, sos de rosii, ulei, sos de rosii, rosie
+----------
+Pentru Budinca de orez cu mere: sirop de soc, mere golden, orez bob rotund, oua, zahar, pastaie de vanilie, unt, lapte
+----------
+Pentru Tocanita de ceapa: ceapa alba, unt, rosii, usturoi, ulei de floarea-soarelui, paine, vin alb, zahar, bulion
+----------
+Pentru Mancarica de prune cu orez: compot de prune, prune uscate, orez bob lung, cascaval afumat, ceapa, unt, ulei de masline
+----------
+Pentru Halva de casa: lapte praf, zahar pudra, afinata, dulceata de afine, fistic, miez de nuca, tahini, susan, seminte de floarea-soarelui
+----------
+Pentru Tarta cu nuci pecan: faina, zahar pudra vanilat, zahar vanilat, unt, ou, zahar, unt, oua, sirop de agave, faina, nuci pecan, ciocolata
+----------
+Pentru Hamburger cu bacon crocant si ou prajit: carne tocata de vita, branza cheddar, bacon, oua, chifle hamburger, salata verde, sos de rosii, maioneza, sare, piper, rosii, castraveti murati
+----------
+Pentru Cheesecake stracciatella: biscuiti Neo, unt, branza mascarpone, zahar pudra vanilat, zahar vanilat, frisca lichida, ciocolata, biscuiti Neo, biscuiti Neo, zmeura
+----------
+Pentru Ciorba radauteana: carne de pui, apa, sare, ceapa, pastarnac, morcovi, ardei capia, telina, smantana 20%, galbenusuri, usturoi, patrunjel, ardei iute
+----------
+Pentru Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat: antricot de vanat, rozmarin, foi de dafin, esalota, sare, ulei, supa de carne, boabe de ienupar, cartofi, morcovi, amidon, gem de coacaze, unt, unt clarificat, piper, patrunjel
+----------
+Pentru Sekana (chiftea ceheasca): bagheta, ceapa, unt, carne tocata, ou, sare, piper, rosii pasate, mustar, boia de ardei dulce, boia de ardei iute, supa de vita, ceapa, unt, faina, rosii pasate, supa de vita, mustar, melasa
+----------
+Pentru Rijstevlaai (prajitura olandeza cu orez): unt, lapte, budinca de orez, gelatina alimentara, zahar, zahar vanilat, sare, oua, unt, lapte, drojdie, zahar, faina, sare
+----------
+Pentru Gulas unguresc condimentat: varza murata, ceapa, ulei, carne de porc, faina, supa de carne, boia de ardei dulce, boia de ardei iute, chimen, ienibahar, sare, piper negru, ardei gras rosu, smantana
+----------
+Pentru Cartofi dulci la cuptor: ceapa, telina, castane, cimbru, ulei de rapita, sare, piper, cartofi dulci, napi, lapte, branza feta, patrunjel
+----------
+Pentru Muschiulet de porc cu sos de Gorgonzola cu mascarpone: muschiulet de porc, ceapa alba, branza gorgonzola, branza mascarpone, unt, usturoi, cimbru, smantana pentru gatit
+----------
+Pentru Risotto alb cu Pecorino si galbenus: orez pentru risotto, ceapa, oua, branza pecorino, unt, supa de legume, sare, piper
+----------
+Pentru Tajine de pui: pulpe de pui, boia de ardei dulce, boia de ardei iute, morcov, telina, ceapa, curmale Medjoul, vin rosu, coriandru, chimen, ienibahar, ulei de masline, orez
+----------
+Pentru Lasagna cu sos de branza Cremeux de Normandie: lapte, unt, faina, branza cremeaux de normandie, foaie de lasagna, parmezan
+----------
+Pentru Cartofi umpluti cu crema de branza si icre: cartofi albi noi, crema de branza, ulei de masline, unt, icre negre, icre rosii, sare, piper, ceapa verde
+----------
+Pentru Supa crema de usturoi cu trufe: cartofi, ceapa, usturoi, lapte, unt, ulei de masline cu trufe, sos de trufe alb, sos de trufe, sare cu trufe, bacon, bagheta
+----------
+Pentru Caracatita cu fistic si cartofi: fistic, caracatita, cartofi albi noi, ceapa rosie, otet de vin, ulei de masline, ardei iute
+----------
+Pentru Homar gratinat cu orez negru: oua, homar, unt, ulei de masline, lamai, ceapa verde, ceapa, orez negru, sare
+----------
+Pentru Prajitura fondanta cu ciocolata: ciocolata, unt, oua, zahar, esenta de rom, faina
+----------
+Pentru Focaccia cu rosii cherry: 
+----------
+Pentru Rulada cu crema de branza si dulceata de afine: 
+----------
+Pentru Placinta cu branza si spanac: 
+----------
+Pentru Rulouri de zucchini la cuptor: zucchini, sos de rosii, branza ricotta, parmezan ras, usturoi, busuioc, oregano, sare, piper, branza mozzarella, ulei de masline
+----------
+Pentru Rulouri cu crema de ou si branza: branza de vaca, iaurt grecesc, oua, marar, sare, piper, castravete
+----------
+Pentru Pasca cu branza si glazura de ciocolata: 
+----------
+Pentru Gogosi rapide de post: 
+----------
+Pentru Friptura de porc la cuptor MasterPRO: pulpa de porc, ceapa, morcovi, telina, cartofi, vin alb, unt, cimbru, ulei de masline, usturoi
+----------
+Pentru Supa crema de ciuperci MasterPRO: 
+----------
+Pentru Saramura de peste: ardei capia, ardei gras, rosii, crap file, sare, apa, cimbru, piper, suc de rosii, ardei iute, suc de rosii, usturoi, mamaliga
+----------
+Pentru Steak cu fasole verde si broccoli: antricot de vita, unt, usturoi, cimbru, fasole verde, broccoli, lamaie
+----------
+Pentru Supa in stil italian Ribollita: 
+----------
+Pentru Chec cu lamaie, cacao si ciocolata: 
+----------
+Pentru Tarta cu afine: 
+----------
+Pentru Supa de cuscus cu legume: 
+----------
+Pentru Somon cu sfecla si cartofi la cuptor cu sos de hrean: 
+----------
+Pentru Cartofi dulci umpluti: cartofi dulci, carnati, ulei, ceapa, usturoi, ardei capia, sare, piper, cimbru, sos de rosii, rosii, masline, patrunjel, salata mixta
+----------
+Pentru Briose marmorate: apa minerala, ulei, lapte de migdale, zahar vanilat, zahar, faina, praf de copt, cacao, nuci pecan
+----------
+Pentru Supa crema de mazare: 
+----------
+Pentru Tocinei moldovenesti: cartof, ou, branza telemea, faina, ulei pentru prajit, salata, rosii cherry, smantana, marar
+----------
+Pentru Carpaccio cu rucola si parmezan: carpaccio cu parmezan, rucola, ulei de masline, otet balsamic, sare, piper, paine
+----------
+Pentru Campanelle cu bacon de vita si spanac: paste campanelle, bacon de vita, smantana pentru gatit, usturoi, unt, spanac, parmezan
+----------
+Pentru Mini Shakshuka gratinate: 
+----------
+Pentru Somon a la Provencal cu piure de cartofi si sos de ciuperci: 
+----------
+Pentru Pui provensal: 
+----------
+Pentru Desert portocale: portocale, smantana pentru gatit, zahar pudra, zeama de lamaie, suc de portocale, ciocolata neagra, coaja de portocala
+----------
+Pentru Fursecuri cu unt si ciocolata: unt, zahar pudra, zahar vanilat, galbenusuri, faina, praf de copt, ciocolata, coaja de portocala, decoratii din zahar
+----------
+Pentru Desert cu fructe de padure: 
+----------
+Pentru Salata cu nuci: morcovi, cartofi dulci, telina, sfecla rosie, ulei de masline, sare, piper, baby spanac, branza feta, lamaie, mix seminte, muguri de pin, seminte de dovleac, mix nuci
+----------
+Pentru Placinta greceasca cu branza feta: branza gouda, branza feta, parmezan, oua, iaurt grecesc, marar, aluat foitaj, unt
+----------
+Pentru Prajitura sfaramicioasa cu ricotta si cacao: faina, unt, zahar, praf de copt, zahar vanilat, branza ricotta, zahar, zahar vanilat, cacao, esenta de rom, ou
+----------
+Pentru Piept de pui cu legume la cuptor: 
+----------
+Pentru Prajitura cu crema de vanilie si cafea: 
+----------
+Pentru Cous Cous cu legume: apa, sare, cuscus, ulei, ceapa rosie, morcovi, ardei capia, piper, dovlecel, sos de rosii, patrunjel
+----------
+Pentru Salata tabbouleh: 
+----------
+Pentru Tort cu trufe si portocale: 
+----------
+Pentru Cotlet de porc umplut cu ciuperci si spanac: 
+----------
+Pentru Batoane cu crema de branza si verdeata: lapte, drojdie, iaurt, albusuri, ulei, faina, sare, unt, branza proaspata, smantana, marar, patrunjel, ou, sare, piper, oregano, galbenusuri, seminte de susan
+----------
+Pentru Biscuiti de post cu ciocolata: 
+----------
+Pentru Cheesecake cu merisoare: 
+----------
+Pentru Fasole cu ciolan: ciolan de porc, ulei, ceapa galbena, morcovi, radacina de patrunjel, sare, piper, oregano, sos de rosii, fasole alba in sos de rosii
+----------
+Pentru Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti: 
+----------
+Pentru File de peste la cuptor in stil mediteranean: peste file, ulei de masline, usturoi, capere, patrunjel, masline kalamata, rosii cherry, zeama de lamaie, sare, piper, chilli fulgi
+----------
+Pentru Chiftele de linte: ulei, ceapa rosie, usturoi, morcovi, sare, piper, linte, patrunjel, chilli fulgi, oregano, faina
+----------
+Pentru Tort cu mousse de ciocolata si caramel: 
+----------
+Pentru Salata calda de legume coapte: 
+----------
+Pentru Cremsnit: 
+----------
+Pentru Biscuiti in 2 culori: 
+----------
+Pentru Hummus cu dovleac copt: naut, dovleac, usturoi, ulei de masline, zeama de lamaie, tahini, cuburi de gheata, sare, chimion, chilli pudra, seminte de dovleac
+----------
+Pentru Musaca cu carne de curcan: cartof, sare, lapte, unt, carne tocata de curcan, ardei capia, morcovi, ceapa, sare, piper, oregano, sos de rosii, ulei, sos de rosii, rosie
+----------
+Pentru Budinca de orez cu mere: 
+----------
+Pentru Tocanita de ceapa: 
+----------
+Pentru Mancarica de prune cu orez: compot de prune, prune uscate, orez bob lung, cascaval afumat, ceapa, unt, ulei de masline
+----------
+Pentru Halva de casa: lapte praf, zahar pudra, afinata, dulceata de afine, fistic, miez de nuca, tahini, susan, seminte de floarea-soarelui
+----------
+Pentru Tarta cu nuci pecan: faina, zahar pudra vanilat, zahar vanilat, unt, ou, zahar, unt, oua, sirop de agave, faina, nuci pecan, ciocolata
+----------
+Pentru Hamburger cu bacon crocant si ou prajit: carne tocata de vita, branza cheddar, bacon, oua, chifle hamburger, salata verde, sos de rosii, maioneza, sare, piper, rosii, castraveti murati
+----------
+Pentru Cheesecake stracciatella: 
+----------
+Pentru Ciorba radauteana: carne de pui, apa, sare, ceapa, pastarnac, morcovi, ardei capia, telina, smantana 20%, galbenusuri, usturoi, patrunjel, ardei iute
+----------
+Pentru Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat: antricot de vanat, rozmarin, foi de dafin, esalota, sare, ulei, supa de carne, boabe de ienupar, cartofi, morcovi, amidon, gem de coacaze, unt, unt clarificat, piper, patrunjel
+----------
+Pentru Sekana (chiftea ceheasca): bagheta, ceapa, unt, carne tocata, ou, sare, piper, rosii pasate, mustar, boia de ardei dulce, boia de ardei iute, supa de vita, ceapa, unt, faina, rosii pasate, supa de vita, mustar, melasa
+----------
+Pentru Rijstevlaai (prajitura olandeza cu orez): unt, lapte, budinca de orez, gelatina alimentara, zahar, zahar vanilat, sare, oua, unt, lapte, drojdie, zahar, faina, sare
+----------
+Pentru Gulas unguresc condimentat: 
+----------
+Pentru Cartofi dulci la cuptor: ceapa, telina, castane, cimbru, ulei de rapita, sare, piper, cartofi dulci, napi, lapte, branza feta, patrunjel
+----------
+Pentru Muschiulet de porc cu sos de Gorgonzola cu mascarpone: 
+----------
+Pentru Risotto alb cu Pecorino si galbenus: orez pentru risotto, ceapa, oua, branza pecorino, unt, supa de legume, sare, piper
+----------
+Pentru Tajine de pui: 
+----------
+Pentru Lasagna cu sos de branza Cremeux de Normandie: lapte, unt, faina, branza cremeaux de normandie, foaie de lasagna, parmezan
+----------
+Pentru Cartofi umpluti cu crema de branza si icre: cartofi albi noi, crema de branza, ulei de masline, unt, icre negre, icre rosii, sare, piper, ceapa verde
+----------
+Pentru Supa crema de usturoi cu trufe: cartofi, ceapa, usturoi, lapte, unt, ulei de masline cu trufe, sos de trufe alb, sos de trufe, sare cu trufe, bacon, bagheta
+----------
+Pentru Caracatita cu fistic si cartofi: fistic, caracatita, cartofi albi noi, ceapa rosie, otet de vin, ulei de masline, ardei iute
+----------
+Pentru Homar gratinat cu orez negru: oua, homar, unt, ulei de masline, lamai, ceapa verde, ceapa, orez negru, sare
+----------

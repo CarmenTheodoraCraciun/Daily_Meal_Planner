@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="A_Lr5vO0kE2sUN8chb6koA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="_6Tgj1sImEe6uMAWoAwtyw" Reference="kiF_bg3RYEKi7MiroGFVLw/IzgF3lzx-EG9HZdAdOrB8Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://bucataria.lidl.ro/retete/prajitura-fondanta-cu-ciocolata" DesignTimeRectangle="130, 494, 490, 289" DesignTimeScaleFactor="1.25" ElementType="List" FullSelectorArgument="&lt;webctrl tag='UL' /&gt;" Guid="dfa7d425-8d7c-440e-9f48-f018ddd922a3" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Prajitura fondanta cu ciocolata' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="06afa981fb3ee63e3c3c241bbdf447c0.png" xmlns="">03niRidYJr02merzdkP3BdA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://bucataria.lidl.ro/retete/cartofi-crocanti-la-cuptor" ContentHash="A_Lr5vO0kE2sUN8chb6koA" DesignTimeRectangle="130, -183, 490, 1430" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl tag='ASIDE' /&gt;" Guid="fc5fd762-1c7f-4f9d-8264-a14066820b80" Reference="kiF_bg3RYEKi7MiroGFVLw/IzgF3lzx-EG9HZdAdOrB8Q" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cartofi crocanti, la cuptor' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="51b0d44be047a104a5374336e0c3a7bb.png" xmlns="">0tAoa_FIJakSf-KhOTO5bDQ</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">ExtractData</x:String>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;

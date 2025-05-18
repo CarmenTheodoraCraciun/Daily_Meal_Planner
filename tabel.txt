@@ -1,0 +1,73 @@
+TimpPreparare,LinkReteta,Nume
+50 min,https://bucataria.lidl.ro/retete/prajitura-fondanta-cu-ciocolata,Prajitura fondanta cu ciocolata
+55 min,https://bucataria.lidl.ro/retete/focaccia-cu-rosii-cherry,Focaccia cu rosii cherry
+45 min,https://bucataria.lidl.ro/retete/rulada-cu-crema-de-branza-si-dulceata-de-afine,Rulada cu crema de branza si dulceata de afine
+1 h 50 min,https://bucataria.lidl.ro/retete/placinta-cu-branza-si-spanac,Placinta cu branza si spanac
+50 min,https://bucataria.lidl.ro/retete/rulouri-de-zucchini-la-cuptor,Rulouri de zucchini la cuptor
+10 min,https://bucataria.lidl.ro/retete/rulouri-cu-crema-de-ou-si-branza,Rulouri cu crema de ou si branza
+1 h 25 min,https://bucataria.lidl.ro/retete/pasca-cu-branza-si-glazura-de-ciocolata,Pasca cu branza si glazura de ciocolata
+60 min,https://bucataria.lidl.ro/retete/gogosi-rapide-de-post,Gogosi rapide de post
+4 h 0 min,https://bucataria.lidl.ro/retete/friptura-de-porc-la-cuptor-masterpro,Friptura de porc la cuptor MasterPRO
+45 min,https://bucataria.lidl.ro/retete/supa-crema-de-ciuperci-masterpro,Supa crema de ciuperci MasterPRO
+2 h 0 min,https://bucataria.lidl.ro/retete/saramura-de-peste,Saramura de peste
+30 min,https://bucataria.lidl.ro/retete/steak-cu-fasole-verde-si-broccoli,Steak cu fasole verde si broccoli
+1 h 5 min,https://bucataria.lidl.ro/retete/supa-in-stil-italian-ribollita,Supa in stil italian Ribollita
+50 min,https://bucataria.lidl.ro/retete/chec-cu-lamaie-cacao-si-ciocolata,"Chec cu lamaie, cacao si ciocolata"
+1 h 35 min,https://bucataria.lidl.ro/retete/tarta-cu-afine,Tarta cu afine
+50 min,https://bucataria.lidl.ro/retete/supa-de-cuscus-cu-legume,Supa de cuscus cu legume
+2 h 0 min,https://bucataria.lidl.ro/retete/somon-cu-sfecla-si-cartofi-la-cuptor-cu-sos-de-hrean,Somon cu sfecla si cartofi la cuptor cu sos de hrean
+1 h 45 min,https://bucataria.lidl.ro/retete/cartofi-dulci-umpluti,Cartofi dulci umpluti
+40 min,https://bucataria.lidl.ro/retete/briose-marmorate,Briose marmorate
+30 min,https://bucataria.lidl.ro/retete/supa-crema-de-mazare,Supa crema de mazare
+45 min,https://bucataria.lidl.ro/retete/tocinei-moldovenesti,Tocinei moldovenesti
+30 min,https://bucataria.lidl.ro/retete/carpaccio-cu-rucola-si-parmezan,Carpaccio cu rucola si parmezan
+30 min,https://bucataria.lidl.ro/retete/campanelle-cu-bacon-de-vita-si-spanac,Campanelle cu bacon de vita si spanac
+45 min,https://bucataria.lidl.ro/retete/mini-shakshuka-gratinate,Mini Shakshuka gratinate
+1 h 30 min,https://bucataria.lidl.ro/retete/somon-a-la-provencal-cu-piure-de-cartofi-si-sos-de-ciuperci,Somon a la Provencal cu piure de cartofi si sos de ciuperci
+1 h 25 min,https://bucataria.lidl.ro/retete/pui-provensal,Pui provensal
+10 min,https://bucataria.lidl.ro/retete/desert-portocale,Desert portocale
+42 min,https://bucataria.lidl.ro/retete/fursecuri-cu-unt-si-ciocolata,Fursecuri cu unt si ciocolata
+10 min,https://bucataria.lidl.ro/retete/desert-cu-fructe-de-padure,Desert cu fructe de padure
+30 min,https://bucataria.lidl.ro/retete/salata-cu-nuci,Salata cu nuci
+1 h 15 min,https://bucataria.lidl.ro/retete/placinta-greceasca-cu-branza-feta,Placinta greceasca cu branza feta
+60 min,https://bucataria.lidl.ro/retete/prajitura-sfaramicioasa-cu-ricotta-si-cacao,Prajitura sfaramicioasa cu ricotta si cacao
+45 min,https://bucataria.lidl.ro/retete/piept-de-pui-cu-legume-la-cuptor,Piept de pui cu legume la cuptor
+45 min,https://bucataria.lidl.ro/retete/prajitura-cu-crema-de-vanilie-si-cafea,Prajitura cu crema de vanilie si cafea
+30 min,https://bucataria.lidl.ro/retete/cous-cous-cu-legume,Cous Cous cu legume
+25 min,https://bucataria.lidl.ro/retete/salata-tabbouleh,Salata tabbouleh
+1 h 20 min,https://bucataria.lidl.ro/retete/tort-cu-trufe-si-portocale,Tort cu trufe si portocale
+2 h 20 min,https://bucataria.lidl.ro/retete/cotlet-de-porc-umplut-cu-ciuperci-si-spanac,Cotlet de porc umplut cu ciuperci si spanac
+2 h 0 min,https://bucataria.lidl.ro/retete/batoane-cu-crema-de-branza-si-verdeata,Batoane cu crema de branza si verdeata
+35 min,https://bucataria.lidl.ro/retete/biscuiti-de-post-cu-ciocolata,Biscuiti de post cu ciocolata
+60 min,https://bucataria.lidl.ro/retete/cheesecake-cu-merisoare,Cheesecake cu merisoare
+1 h 50 min,https://bucataria.lidl.ro/retete/fasole-cu-ciolan,Fasole cu ciolan
+2 h 40 min,https://bucataria.lidl.ro/retete/friptura-de-curcan-la-tava-servita-cu-cartofi-la-cuptor-si-ardei-copti,"Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti"
+25 min,https://bucataria.lidl.ro/retete/file-de-peste-la-cuptor-in-stil-mediteranean,File de peste la cuptor in stil mediteranean
+1 h 5 min,https://bucataria.lidl.ro/retete/chiftele-de-linte,Chiftele de linte
+1 h 20 min,https://bucataria.lidl.ro/retete/tort-cu-mousse-de-ciocolata-si-caramel,Tort cu mousse de ciocolata si caramel
+40 min,https://bucataria.lidl.ro/retete/salata-calda-de-legume-coapte,Salata calda de legume coapte
+1 h 25 min,https://bucataria.lidl.ro/retete/cremsnit,Cremsnit
+1 h 36 min,https://bucataria.lidl.ro/retete/biscuiti-in-2-culori,Biscuiti in 2 culori
+40 min,https://bucataria.lidl.ro/retete/hummus-cu-dovleac-copt,Hummus cu dovleac copt
+2 h 40 min,https://bucataria.lidl.ro/retete/musaca-cu-carne-de-curcan,Musaca cu carne de curcan
+40 min,https://bucataria.lidl.ro/retete/budinca-de-orez-cu-mere,Budinca de orez cu mere
+1 h 10 min,https://bucataria.lidl.ro/retete/tocanita-de-ceapa,Tocanita de ceapa
+30 min,https://bucataria.lidl.ro/retete/mancarica-de-prune-cu-orez,Mancarica de prune cu orez
+25 min,https://bucataria.lidl.ro/retete/halva-de-casa,Halva de casa
+2 h 0 min,https://bucataria.lidl.ro/retete/tarta-cu-nuci-pecan,Tarta cu nuci pecan
+30 min,https://bucataria.lidl.ro/retete/hamburger-cu-bacon-crocant-si-ou-prajit,Hamburger cu bacon crocant si ou prajit
+40 min,https://bucataria.lidl.ro/retete/cheesecake-stracciatella,Cheesecake stracciatella
+1 h 15 min,https://bucataria.lidl.ro/retete/ciorba-radauteana,Ciorba radauteana
+2 h 43 min,https://bucataria.lidl.ro/retete/friptura-din-antricot-de-vanat-sous-vide-cu-legume-si-sos-pentru-vanat,Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat
+3 h 7 min,https://bucataria.lidl.ro/retete/sekana-chiftea-ceheasca,Sekana (chiftea ceheasca)
+3 h 55 min,https://bucataria.lidl.ro/retete/rijstevlaai-prajitura-olandeza-cu-orez,Rijstevlaai (prajitura olandeza cu orez)
+2 h 45 min,https://bucataria.lidl.ro/retete/gulas-unguresc-condimentat,Gulas unguresc condimentat
+1 h 47 min,https://bucataria.lidl.ro/retete/cartofi-dulci-la-cuptor,Cartofi dulci la cuptor
+60 min,https://bucataria.lidl.ro/retete/muschiulet-de-porc-cu-sos-de-gorgonzola-cu-mascarpone,Muschiulet de porc cu sos de Gorgonzola cu mascarpone
+30 min,https://bucataria.lidl.ro/retete/risotto-alb-cu-pecorino-si-galbenus,Risotto alb cu Pecorino si galbenus
+60 min,https://bucataria.lidl.ro/retete/tajine-de-pui,Tajine de pui
+60 min,https://bucataria.lidl.ro/retete/lasagna-cu-sos-de-branza-cremeux-de-normandie,Lasagna cu sos de branza Cremeux de Normandie
+45 min,https://bucataria.lidl.ro/retete/cartofi-umpluti-cu-crema-de-branza-si-icre,Cartofi umpluti cu crema de branza si icre
+45 min,https://bucataria.lidl.ro/retete/supa-crema-de-usturoi-cu-trufe,Supa crema de usturoi cu trufe
+1 h 30 min,https://bucataria.lidl.ro/retete/caracatita-cu-fistic-si-cartofi,Caracatita cu fistic si cartofi
+45 min,https://bucataria.lidl.ro/retete/homar-gratinat-cu-orez-negru,Homar gratinat cu orez negru
