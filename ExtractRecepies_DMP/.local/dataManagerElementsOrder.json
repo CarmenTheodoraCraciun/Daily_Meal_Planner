@@ -12,6 +12,9 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "variable1&Sequence_1",
+        "jsonPath&Sequence_1",
+        "dtIngrediente&Sequence_1",
         "jsonText&Sequence_1",
         "testIngredient&Sequence_4",
         "testTabel&Sequence_3",
