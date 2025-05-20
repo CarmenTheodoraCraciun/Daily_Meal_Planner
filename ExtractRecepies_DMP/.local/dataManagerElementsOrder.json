@@ -3,18 +3,18 @@
     {
       "Path": null,
       "SortBy": 0,
-      "VariablesSectionElementsOrder": null,
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": null,
-      "ConstantsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
     },
     {
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "jsonText&Sequence_1",
         "testIngredient&Sequence_4",
         "testTabel&Sequence_3",
-        "jsonFile&Sequence_3",
         "reteta&Sequence_1",
         "listaRetete&Sequence_1",
         "ingrediente&Sequence_1",

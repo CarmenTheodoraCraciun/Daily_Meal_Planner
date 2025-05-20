@@ -125,27 +125,27 @@
       <x:Boolean x:Key="ShouldExpandAll">True</x:Boolean>
     </scg:Dictionary>
   </sap:WorkflowViewStateService.ViewState>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="846,2300.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="901.6000000000001,2900.0000000000005" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="sd:DataTable" Name="ingrediente" />
       <Variable x:TypeArguments="scg:List(njl:JObject)" Name="listaRetete" />
       <Variable x:TypeArguments="njl:JObject" Name="reteta" />
+      <Variable x:TypeArguments="x:String" Name="jsonText" />
     </Sequence.Variables>
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Toate retetele  Lidl" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="606.4,2277.6" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V2">
+    <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Edge Toate retetele  Lidl" HealingAgentBehavior="Job" sap:VirtualizedContainerService.HintSize="606.4,2876.8" sap2010:WorkflowViewState.IdRef="NApplicationCard_2" InteractionMode="DebuggerApi" ScopeGuid="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V2">
       <uix:NApplicationCard.Body>
         <ActivityAction x:TypeArguments="x:Object">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="x:Object" Name="WSSessionData" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="572.8,2037.6" sap2010:WorkflowViewState.IdRef="Sequence_3">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="572.8,2636.8" sap2010:WorkflowViewState.IdRef="Sequence_3">
             <Sequence.Variables>
               <Variable x:TypeArguments="sd:DataTable" Name="tabel" />
-              <Variable x:TypeArguments="x:String" Name="jsonFile" />
               <Variable x:TypeArguments="x:String" Name="testTabel" />
             </Sequence.Variables>
             <sap:WorkflowViewStateService.ViewState>
@@ -153,40 +153,40 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[tabel]" DisplayName="Extract Table Data 'Extract Table Data'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='TimpPreparare'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column4' Name='LinkReteta'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Nume'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;true&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;/row&gt;&lt;column exact='1' name='Column2' attr='fulltext'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Column4' attr='href' name2='Column0' attr2='fulltext'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="539.2,56.8" sap2010:WorkflowViewState.IdRef="NExtractData_2" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V4">
+            <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[tabel]" DisplayName="Extract Table Data 'Extract Table Data'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column2' Name='TimpPreparare'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column4' Name='LinkReteta'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Nume'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;true&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;true&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;row exact='1'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;/row&gt;&lt;column exact='1' name='Column2' attr='fulltext'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;column exact='1' name='Column4' attr='href' name2='Column0' attr2='fulltext'&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='article' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='a' idx='1' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="539.2,189.6" sap2010:WorkflowViewState.IdRef="NExtractData_2" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V4">
               <uix:NExtractData.Target>
                 <uix:TargetAnchorable BrowserURL="https://bucataria.lidl.ro/toate-retetele?page=2" ContentHash="qhECPNGwI02hxAiE2AfCAQ" DesignTimeRectangle="110, 379, 1650, 5216" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl class='relative' css-selector='body&amp;gt;main&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div' tag='DIV' /&gt;" Guid="e5df30b5-eb95-4264-ac26-b1498a3880b9" InformativeScreenshot="5060c3c3a5c47af287a18d3fec6d79ad.png" Reference="kiF_bg3RYEKi7MiroGFVLw/Wnw24T-2s0CUv8KCpEtc2g" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Toate retetele | Lidl' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" />
               </uix:NExtractData.Target>
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </uix:NExtractData>
-            <ui:OutputDataTable DataTable="[tabel]" DisplayName="Output Data Table as Text" sap:VirtualizedContainerService.HintSize="539.2,56.8" sap2010:WorkflowViewState.IdRef="OutputDataTable_1" Text="[testTabel]">
+            <ui:OutputDataTable DataTable="[tabel]" DisplayName="Output Data Table as Text" sap:VirtualizedContainerService.HintSize="539.2,112.8" sap2010:WorkflowViewState.IdRef="OutputDataTable_1" Text="[testTabel]">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:OutputDataTable>
-            <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="../tabel.txt" sap:VirtualizedContainerService.HintSize="539.2,56.8" sap2010:WorkflowViewState.IdRef="WriteTextFile_2" Text="[testTabel]">
+            <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="../tabel.txt" sap:VirtualizedContainerService.HintSize="539.2,166.4" sap2010:WorkflowViewState.IdRef="WriteTextFile_2" Text="[testTabel]">
               <sap:WorkflowViewStateService.ViewState>
                 <scg:Dictionary x:TypeArguments="x:String, x:Object">
                   <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                  <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                  <x:Boolean x:Key="IsPinned">False</x:Boolean>
                 </scg:Dictionary>
               </sap:WorkflowViewStateService.ViewState>
             </ui:WriteTextFile>
-            <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[tabel]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="539.2,1357.6" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
+            <ui:ForEachRow ColumnNames="{x:Null}" CurrentIndex="{x:Null}" DataTable="[tabel]" DisplayName="For Each Row in Data Table" sap:VirtualizedContainerService.HintSize="539.2,1656" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
               <ui:ForEachRow.Body>
                 <ActivityAction x:TypeArguments="sd:DataRow">
                   <ActivityAction.Argument>
                     <DelegateInArgument x:TypeArguments="sd:DataRow" Name="CurrentRow" />
                   </ActivityAction.Argument>
-                  <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="537.6,1176" sap2010:WorkflowViewState.IdRef="Sequence_4">
+                  <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="537.6,1474.4" sap2010:WorkflowViewState.IdRef="Sequence_4">
                     <Sequence.Variables>
                       <Variable x:TypeArguments="x:String" Name="testIngredient" />
                     </Sequence.Variables>
@@ -195,30 +195,30 @@
                         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                       </scg:Dictionary>
                     </sap:WorkflowViewStateService.ViewState>
-                    <uix:NGoToUrl DisplayName="Go To URL - " sap:VirtualizedContainerService.HintSize="504,56.8" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="[CurrentRow(&quot;LinkReteta&quot;).ToString]" Version="V4">
+                    <uix:NGoToUrl DisplayName="Go To URL - " sap:VirtualizedContainerService.HintSize="504,114.4" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="[CurrentRow(&quot;LinkReteta&quot;).ToString]" Version="V4">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NGoToUrl>
-                    <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[ingrediente]" DisplayName="Extract Table Data 'Extract Table Data(1)'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Ingrediente'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;column exact='1' name='Column0' attr='fulltext'&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='ul' idx='1' /&gt;&lt;webctrl tag='li' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="504,56.8" sap2010:WorkflowViewState.IdRef="NExtractData_3" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V4">
+                    <uix:NExtractData AppendResults="False" ContinueOnError="True" DataTable="[ingrediente]" DisplayName="Extract Table Data 'Extract Table Data(1)'" ExtractDataSettings="&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;&#xA;&#x9;&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='Ingrediente'&gt;&#xA;&#x9;&#x9;&lt;IsValidName&gt;true&lt;/IsValidName&gt;&#xA;&#x9;&#x9;&lt;ValidationErrorMessage /&gt;&#xA;&#x9;&#x9;&lt;IsExtra&gt;false&lt;/IsExtra&gt;&#xA;&#x9;&#x9;&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;&#xA;&#x9;&#x9;&lt;Format xsi:type='TextColumnFormat' /&gt;&#xA;&#x9;&lt;/Column&gt;&#xA;&lt;/Table&gt;" ExtractMetadata="&lt;extract&gt;&lt;column exact='1' name='Column0' attr='fulltext'&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' /&gt;&lt;webctrl tag='ul' idx='1' /&gt;&lt;webctrl tag='li' /&gt;&lt;webctrl tag='div' idx='2' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='div' idx='1' /&gt;&lt;webctrl tag='span' idx='1' /&gt;&lt;/column&gt;&lt;/extract&gt;" HealingAgentBehavior="SameAsCard" sap:VirtualizedContainerService.HintSize="504,189.6" sap2010:WorkflowViewState.IdRef="NExtractData_3" LimitExtractionTo="None" MaximumResults="0" ScopeIdentifier="c74f525a-7a4b-40da-ab41-83955fde977f" Version="V4">
                       <uix:NExtractData.Target>
                         <uix:TargetAnchorable BrowserURL="https://bucataria.lidl.ro/retete/cartofi-crocanti-la-cuptor" ContentHash="_6Tgj1sImEe6uMAWoAwtyw" DesignTimeRectangle="130, -183, 490, 1430" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl tag='ASIDE' /&gt;" Guid="fc5fd762-1c7f-4f9d-8264-a14066820b80" InformativeScreenshot="51b0d44be047a104a5374336e0c3a7bb.png" Reference="kiF_bg3RYEKi7MiroGFVLw/IzgF3lzx-EG9HZdAdOrB8Q" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Cartofi crocanti, la cuptor' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" />
                       </uix:NExtractData.Target>
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
-                          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                          <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </uix:NExtractData>
-                    <ui:AppendLine File="{x:Null}" DisplayName="Append Line" FileName="../ingrediente.txt" sap:VirtualizedContainerService.HintSize="504,56.8" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[&quot;Pentru &quot; &amp; CurrentRow(&quot;Nume&quot;).ToString() &amp; &quot;: &quot; &amp; String.Join(&quot;, &quot;, ingrediente.AsEnumerable().Select(Function(row) row(0).ToString())) &amp; vbCrLf &amp; &quot;----------&quot;]" UseDefaultEncoding="False">
+                    <ui:AppendLine File="{x:Null}" DisplayName="Append Line" FileName="../ingrediente.txt" sap:VirtualizedContainerService.HintSize="504,166.4" sap2010:WorkflowViewState.IdRef="AppendLine_1" Text="[&quot;Pentru &quot; &amp; CurrentRow(&quot;Nume&quot;).ToString() &amp; &quot;: &quot; &amp; String.Join(&quot;, &quot;, ingrediente.AsEnumerable().Select(Function(row) row(0).ToString())) &amp; vbCrLf &amp; &quot;----------&quot;]" UseDefaultEncoding="False">
                       <sap:WorkflowViewStateService.ViewState>
                         <scg:Dictionary x:TypeArguments="x:String, x:Object">
                           <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-                          <x:Boolean x:Key="IsPinned">True</x:Boolean>
+                          <x:Boolean x:Key="IsPinned">False</x:Boolean>
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </ui:AppendLine>
@@ -236,33 +236,28 @@
                         </scg:Dictionary>
                       </sap:WorkflowViewStateService.ViewState>
                     </Assign>
-                    <If Condition="[ingrediente IsNot Nothing AndAlso ingrediente.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="504,832" sap2010:WorkflowViewState.IdRef="If_2">
+                    <If Condition="[ingrediente IsNot Nothing AndAlso ingrediente.Rows.Count &gt; 0]" sap:VirtualizedContainerService.HintSize="504,830.4" sap2010:WorkflowViewState.IdRef="If_2">
                       <If.Then>
-                        <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="502.4,612.8" sap2010:WorkflowViewState.IdRef="Sequence_19">
+                        <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="502.4,611.2" sap2010:WorkflowViewState.IdRef="Sequence_19">
                           <sap:WorkflowViewStateService.ViewState>
                             <scg:Dictionary x:TypeArguments="x:String, x:Object">
                               <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                             </scg:Dictionary>
                           </sap:WorkflowViewStateService.ViewState>
-                          <If Condition="[listaRetete.Any(Function(r) r(&quot;nume&quot;).ToString() = CurrentRow(&quot;Nume&quot;).ToString())]" sap:VirtualizedContainerService.HintSize="468.8,552.8" sap2010:WorkflowViewState.IdRef="If_3">
+                          <If Condition="[listaRetete.Any(Function(r) r(&quot;nume&quot;).ToString() = CurrentRow(&quot;Nume&quot;).ToString())]" sap:VirtualizedContainerService.HintSize="468.8,551.2" sap2010:WorkflowViewState.IdRef="If_3">
                             <If.Then>
-                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="467.2,333.6" sap2010:WorkflowViewState.IdRef="Sequence_21">
+                              <Sequence DisplayName="Then" sap:VirtualizedContainerService.HintSize="467.2,332" sap2010:WorkflowViewState.IdRef="Sequence_21">
                                 <sap:WorkflowViewStateService.ViewState>
                                   <scg:Dictionary x:TypeArguments="x:String, x:Object">
                                     <x:Boolean x:Key="IsExpanded">True</x:Boolean>
                                   </scg:Dictionary>
                                 </sap:WorkflowViewStateService.ViewState>
-                                <Assign sap:VirtualizedContainerService.HintSize="433.6,115.2" sap2010:WorkflowViewState.IdRef="Assign_1">
+                                <Assign sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_1">
                                   <Assign.To>
                                     <OutArgument x:TypeArguments="njl:JObject">[reteta]</OutArgument>
                                   </Assign.To>
                                   <Assign.Value>
-                                    <InArgument x:TypeArguments="njl:JObject" xml:space="preserve">[New Newtonsoft.Json.Linq.JObject(
-    New Newtonsoft.Json.Linq.JProperty("nume", CurrentRow("Nume").ToString()),
-    New Newtonsoft.Json.Linq.JProperty("timp_preparare", CurrentRow("TimpPreparare").ToString()),
-    New Newtonsoft.Json.Linq.JProperty("ingrediente", New Newtonsoft.Json.Linq.JArray(ingrediente.AsEnumerable().Select(Function(row) row(0).ToString()))),
-    New Newtonsoft.Json.Linq.JProperty("link_reteta", CurrentRow("LinkReteta").ToString())
-)]</InArgument>
+                                    <InArgument x:TypeArguments="njl:JObject">[New Newtonsoft.Json.Linq.JObject(New Newtonsoft.Json.Linq.JProperty("Nume", CurrentRow("Nume").ToString()), New Newtonsoft.Json.Linq.JProperty("TimpPreparare", CurrentRow("TimpPreparare").ToString()), New Newtonsoft.Json.Linq.JProperty("TimpGatire", CurrentRow("TimpGatire").ToString()), New Newtonsoft.Json.Linq.JProperty("Ingrediente", New Newtonsoft.Json.Linq.JArray(ingrediente.AsEnumerable().Select(Function(r) r(0).ToString()).ToArray())), New Newtonsoft.Json.Linq.JProperty("ModPreparare", CurrentRow("ModPreparare").ToString()))]</InArgument>
                                   </Assign.Value>
                                   <sap:WorkflowViewStateService.ViewState>
                                     <scg:Dictionary x:TypeArguments="x:String, x:Object">
@@ -318,15 +313,17 @@
               </sap:WorkflowViewStateService.ViewState>
             </ui:ForEachRow>
             <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="539.2,176" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[listaRetete]" />
-            <Assign sap:VirtualizedContainerService.HintSize="539.2,114.4" sap2010:WorkflowViewState.IdRef="Assign_2">
+            <Assign sap:VirtualizedContainerService.HintSize="539.2,115.2" sap2010:WorkflowViewState.IdRef="Assign_2">
               <Assign.To>
-                <OutArgument x:TypeArguments="x:String">[jsonFile]</OutArgument>
+                <OutArgument x:TypeArguments="x:String">[jsonText]</OutArgument>
               </Assign.To>
               <Assign.Value>
-                <InArgument x:TypeArguments="x:String">[Newtonsoft.Json.JsonConvert.SerializeObject(New Newtonsoft.Json.Linq.JObject(New Newtonsoft.Json.Linq.JProperty("retete", listaRetete)), Newtonsoft.Json.Formatting.Indented)]</InArgument>
+                <InArgument x:TypeArguments="x:String" xml:space="preserve">[Newtonsoft.Json.JsonConvert.SerializeObject(New With {
+    Key .retete = listaRetete
+}, Newtonsoft.Json.Formatting.Indented)]</InArgument>
               </Assign.Value>
             </Assign>
-            <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="[jsonFile]" sap:VirtualizedContainerService.HintSize="539.2,157.6" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="../recepies.json" />
+            <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="C:\Users\Codruta Alexandra\OneDrive\OneDrive - e-uvt.ro\Desktop\retete.json" sap:VirtualizedContainerService.HintSize="539.2,159.2" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="[jsonText]" />
           </Sequence>
         </ActivityAction>
       </uix:NApplicationCard.Body>
