@@ -1,4 +1,5 @@
 TimpPreparare,LinkReteta,Nume
+45 min,https://bucataria.lidl.ro/retete/tiramisu-cu-lime-si-capsuni,Tiramisu cu lime si capsuni
 2 h 30 min,https://bucataria.lidl.ro/retete/chifle-cu-branza-si-usturoi,Chifle cu branza si usturoi
 50 min,https://bucataria.lidl.ro/retete/prajitura-fondanta-cu-ciocolata,Prajitura fondanta cu ciocolata
 55 min,https://bucataria.lidl.ro/retete/focaccia-cu-rosii-cherry,Focaccia cu rosii cherry
@@ -70,4 +71,3 @@ TimpPreparare,LinkReteta,Nume
 60 min,https://bucataria.lidl.ro/retete/lasagna-cu-sos-de-branza-cremeux-de-normandie,Lasagna cu sos de branza Cremeux de Normandie
 45 min,https://bucataria.lidl.ro/retete/cartofi-umpluti-cu-crema-de-branza-si-icre,Cartofi umpluti cu crema de branza si icre
 45 min,https://bucataria.lidl.ro/retete/supa-crema-de-usturoi-cu-trufe,Supa crema de usturoi cu trufe
-1 h 30 min,https://bucataria.lidl.ro/retete/caracatita-cu-fistic-si-cartofi,Caracatita cu fistic si cartofi
