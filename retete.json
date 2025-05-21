@@ -1,3 +1,1216 @@
 {
-  "retete": []
+  "retete": [
+    {
+      "Nume": "Tiramisu cu lime si capsuni",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "piscoturi",
+        "coaja de lime",
+        "branza mascarpone",
+        "smantana pentru gatit",
+        "galbenusuri",
+        "zahar",
+        "capsuni",
+        "menta",
+        "cafea"
+      ]
+    },
+    {
+      "Nume": "Chifle cu branza si usturoi",
+      "TimpPreparare": "2 h 30 min",
+      "Ingrediente": [
+        "faina",
+        "drojdie uscata",
+        "zahar",
+        "sare",
+        "apa",
+        "unt",
+        "usturoi",
+        "patrunjel",
+        "mix de branzeturi",
+        "branza mozzarella"
+      ]
+    },
+    {
+      "Nume": "Prajitura fondanta cu ciocolata",
+      "TimpPreparare": "50 min",
+      "Ingrediente": [
+        "ciocolata",
+        "unt",
+        "oua",
+        "zahar",
+        "esenta de rom",
+        "faina"
+      ]
+    },
+    {
+      "Nume": "Focaccia cu rosii cherry",
+      "TimpPreparare": "55 min",
+      "Ingrediente": [
+        "faina",
+        "apa",
+        "ulei de masline",
+        "sare",
+        "drojdie uscata",
+        "rosii cherry",
+        "rozmarin",
+        "busuioc"
+      ]
+    },
+    {
+      "Nume": "Rulada cu crema de branza si dulceata de afine",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "oua",
+        "zahar",
+        "zahar vanilat",
+        "dulceata de afine",
+        "faina",
+        "apa",
+        "zahar",
+        "zahar vanilat",
+        "esenta de rom",
+        "branza ricotta",
+        "zahar pudra",
+        "frisca lichida",
+        "dulceata de afine",
+        "afine"
+      ]
+    },
+    {
+      "Nume": "Placinta cu branza si spanac",
+      "TimpPreparare": "1 h 50 min",
+      "Ingrediente": [
+        "unt",
+        "ulei",
+        "ceapa verde",
+        "spanac",
+        "sare",
+        "piper",
+        "oregano",
+        "branza telemea",
+        "oua",
+        "patrunjel",
+        "aluat placinta",
+        "unt",
+        "ou"
+      ]
+    },
+    {
+      "Nume": "Rulouri de zucchini la cuptor",
+      "TimpPreparare": "50 min",
+      "Ingrediente": [
+        "zucchini",
+        "sos de rosii",
+        "branza ricotta",
+        "parmezan ras",
+        "usturoi",
+        "busuioc",
+        "oregano",
+        "sare",
+        "piper",
+        "branza mozzarella",
+        "ulei de masline"
+      ]
+    },
+    {
+      "Nume": "Rulouri cu crema de ou si branza",
+      "TimpPreparare": "10 min",
+      "Ingrediente": [
+        "branza de vaca",
+        "iaurt grecesc",
+        "oua",
+        "marar",
+        "sare",
+        "piper",
+        "castravete"
+      ]
+    },
+    {
+      "Nume": "Pasca cu branza si glazura de ciocolata",
+      "TimpPreparare": "1 h 25 min",
+      "Ingrediente": [
+        "branza de vaca",
+        "iaurt grecesc",
+        "esenta de rom",
+        "zahar vanilat",
+        "unt",
+        "oua",
+        "zahar",
+        "praf de copt",
+        "amidon",
+        "frisca lichida",
+        "ciocolata neagra",
+        "fulgi de ciocolata"
+      ]
+    },
+    {
+      "Nume": "Gogosi rapide de post",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "faina",
+        "drojdie uscata",
+        "zahar",
+        "zahar pudra",
+        "lapte de cocos",
+        "sare",
+        "ulei",
+        "coaja de lamaie",
+        "ulei pentru prajit",
+        "zahar brun",
+        "scortisoara macinata"
+      ]
+    },
+    {
+      "Nume": "Friptura de porc la cuptor MasterPRO",
+      "TimpPreparare": "4 h 0 min",
+      "Ingrediente": [
+        "pulpa de porc",
+        "ceapa",
+        "morcovi",
+        "telina",
+        "cartofi",
+        "vin alb",
+        "unt",
+        "cimbru",
+        "ulei de masline",
+        "usturoi"
+      ]
+    },
+    {
+      "Nume": "Supa crema de ciuperci MasterPRO",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "ciuperci champignon",
+        "ceapa",
+        "usturoi",
+        "vin alb",
+        "supa de pui",
+        "smantana pentru gatit",
+        "patrunjel",
+        "unt",
+        "ulei de masline",
+        "otet balsamic"
+      ]
+    },
+    {
+      "Nume": "Saramura de peste",
+      "TimpPreparare": "2 h 0 min",
+      "Ingrediente": [
+        "ardei capia",
+        "ardei gras",
+        "rosii",
+        "crap file",
+        "sare",
+        "apa",
+        "cimbru",
+        "piper",
+        "suc de rosii",
+        "ardei iute",
+        "suc de rosii",
+        "usturoi",
+        "mamaliga"
+      ]
+    },
+    {
+      "Nume": "Steak cu fasole verde si broccoli",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "antricot de vita",
+        "unt",
+        "usturoi",
+        "cimbru",
+        "fasole verde",
+        "broccoli",
+        "lamaie"
+      ]
+    },
+    {
+      "Nume": "Supa in stil italian Ribollita",
+      "TimpPreparare": "1 h 5 min",
+      "Ingrediente": [
+        "fasole alba",
+        "ulei",
+        "ceapa",
+        "praz",
+        "morcovi",
+        "varza china",
+        "sare",
+        "piper",
+        "apa",
+        "fasole alba",
+        "suc de rosii",
+        "paine"
+      ]
+    },
+    {
+      "Nume": "Chec cu lamaie, cacao si ciocolata",
+      "TimpPreparare": "50 min",
+      "Ingrediente": [
+        "faina",
+        "zahar",
+        "oua",
+        "esenta de vanilie",
+        "ulei de floarea-soarelui",
+        "zeama de lamaie",
+        "coaja de lamaie",
+        "cacao",
+        "lapte",
+        "praf de copt",
+        "fulgi de ciocolata"
+      ]
+    },
+    {
+      "Nume": "Tarta cu afine",
+      "TimpPreparare": "1 h 35 min",
+      "Ingrediente": [
+        "faina",
+        "unt",
+        "apa",
+        "afine",
+        "zahar",
+        "amidon",
+        "frisca",
+        "inghetata cu vanilie"
+      ]
+    },
+    {
+      "Nume": "Supa de cuscus cu legume",
+      "TimpPreparare": "50 min",
+      "Ingrediente": [
+        "ceapa",
+        "morcov",
+        "telina apio",
+        "pastarnac",
+        "ardei capia",
+        "telina",
+        "mazare",
+        "foi de dafin",
+        "apa",
+        "cuscus",
+        "patrunjel",
+        "sare",
+        "piper"
+      ]
+    },
+    {
+      "Nume": "Somon cu sfecla si cartofi la cuptor cu sos de hrean",
+      "TimpPreparare": "2 h 0 min",
+      "Ingrediente": [
+        "cartofi",
+        "ulei",
+        "sare",
+        "piper",
+        "usturoi granulat",
+        "oregano",
+        "ulei",
+        "somon file",
+        "sfecla rosie",
+        "marar",
+        "iaurt grecesc",
+        "marar",
+        "hrean",
+        "mustar",
+        "miere",
+        "zeama de lamaie",
+        "salata mixta"
+      ]
+    },
+    {
+      "Nume": "Cartofi dulci umpluti",
+      "TimpPreparare": "1 h 45 min",
+      "Ingrediente": [
+        "cartofi dulci",
+        "carnati",
+        "ulei",
+        "ceapa",
+        "usturoi",
+        "ardei capia",
+        "sare",
+        "piper",
+        "cimbru",
+        "sos de rosii",
+        "rosii",
+        "masline",
+        "patrunjel",
+        "salata mixta"
+      ]
+    },
+    {
+      "Nume": "Briose marmorate",
+      "TimpPreparare": "40 min",
+      "Ingrediente": [
+        "apa minerala",
+        "ulei",
+        "lapte de migdale",
+        "zahar vanilat",
+        "zahar",
+        "faina",
+        "praf de copt",
+        "cacao",
+        "nuci pecan"
+      ]
+    },
+    {
+      "Nume": "Supa crema de mazare",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "mazare",
+        "ceapa",
+        "cartofi",
+        "apa",
+        "ulei de masline",
+        "sare",
+        "piper",
+        "menta",
+        "zeama de lamaie",
+        "crutoane"
+      ]
+    },
+    {
+      "Nume": "Tocinei moldovenesti",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "cartof",
+        "ou",
+        "branza telemea",
+        "faina",
+        "ulei pentru prajit",
+        "salata",
+        "rosii cherry",
+        "smantana",
+        "marar"
+      ]
+    },
+    {
+      "Nume": "Carpaccio cu rucola si parmezan",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "carpaccio cu parmezan",
+        "rucola",
+        "ulei de masline",
+        "otet balsamic",
+        "sare",
+        "piper",
+        "paine"
+      ]
+    },
+    {
+      "Nume": "Campanelle cu bacon de vita si spanac",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "paste campanelle",
+        "bacon de vita",
+        "smantana pentru gatit",
+        "usturoi",
+        "unt",
+        "spanac",
+        "parmezan"
+      ]
+    },
+    {
+      "Nume": "Mini Shakshuka gratinate",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "aluat foitaj",
+        "ardei iute",
+        "naut",
+        "ulei de masline",
+        "ou de prepelita",
+        "vanata",
+        "ceapa",
+        "rosii",
+        "branza telemea",
+        "condimente"
+      ]
+    },
+    {
+      "Nume": "Somon a la Provencal cu piure de cartofi si sos de ciuperci",
+      "TimpPreparare": "1 h 30 min",
+      "Ingrediente": [
+        "somon file",
+        "ciuperci",
+        "cartofi",
+        "unt",
+        "lapte",
+        "vin alb",
+        "cimbru",
+        "ceapa",
+        "sare",
+        "piper"
+      ]
+    },
+    {
+      "Nume": "Pui provensal",
+      "TimpPreparare": "1 h 25 min",
+      "Ingrediente": [
+        "ardei gras",
+        "ulei",
+        "pulpe de pui dezosate",
+        "sare",
+        "piper",
+        "ceapa",
+        "usturoi",
+        "vin alb",
+        "supa de pui",
+        "sos de rosii",
+        "cimbru",
+        "masline"
+      ]
+    },
+    {
+      "Nume": "Desert portocale",
+      "TimpPreparare": "10 min",
+      "Ingrediente": [
+        "portocale",
+        "smantana pentru gatit",
+        "zahar pudra",
+        "zeama de lamaie",
+        "suc de portocale",
+        "ciocolata neagra",
+        "coaja de portocala"
+      ]
+    },
+    {
+      "Nume": "Fursecuri cu unt si ciocolata",
+      "TimpPreparare": "42 min",
+      "Ingrediente": [
+        "unt",
+        "zahar pudra",
+        "zahar vanilat",
+        "galbenusuri",
+        "faina",
+        "praf de copt",
+        "ciocolata",
+        "coaja de portocala",
+        "decoratii din zahar"
+      ]
+    },
+    {
+      "Nume": "Desert cu fructe de padure",
+      "TimpPreparare": "10 min",
+      "Ingrediente": [
+        "mix seminte",
+        "iaurt de cocos",
+        "musli",
+        "mix fructe uscate",
+        "afine",
+        "zmeura"
+      ]
+    },
+    {
+      "Nume": "Salata cu nuci",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "morcovi",
+        "cartofi dulci",
+        "telina",
+        "sfecla rosie",
+        "ulei de masline",
+        "sare",
+        "piper",
+        "baby spanac",
+        "branza feta",
+        "lamaie",
+        "mix seminte",
+        "muguri de pin",
+        "seminte de dovleac",
+        "mix nuci"
+      ]
+    },
+    {
+      "Nume": "Placinta greceasca cu branza feta",
+      "TimpPreparare": "1 h 15 min",
+      "Ingrediente": [
+        "branza gouda",
+        "branza feta",
+        "parmezan",
+        "oua",
+        "iaurt grecesc",
+        "marar",
+        "aluat foitaj",
+        "unt"
+      ]
+    },
+    {
+      "Nume": "Prajitura sfaramicioasa cu ricotta si cacao",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "faina",
+        "unt",
+        "zahar",
+        "praf de copt",
+        "zahar vanilat",
+        "branza ricotta",
+        "zahar",
+        "zahar vanilat",
+        "cacao",
+        "esenta de rom",
+        "ou"
+      ]
+    },
+    {
+      "Nume": "Piept de pui cu legume la cuptor",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "piept de pui",
+        "ierburi aromatice",
+        "zeama de lamaie",
+        "ulei de masline",
+        "sare",
+        "piper",
+        "broccoli",
+        "conopida",
+        "ardei gras rosu",
+        "ardei gras galben",
+        "ardei gras verde",
+        "ceapa rosie",
+        "dovlecel",
+        "usturoi",
+        "ulei de masline",
+        "sare",
+        "piper"
+      ]
+    },
+    {
+      "Nume": "Prajitura cu crema de vanilie si cafea",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "galbenusuri",
+        "zahar",
+        "amidon",
+        "lapte",
+        "zahar vanilat",
+        "unt",
+        "frisca",
+        "cafea instant",
+        "cacao",
+        "lapte",
+        "ciocolata",
+        "frisca lichida",
+        "biscuiti"
+      ]
+    },
+    {
+      "Nume": "Cous Cous cu legume",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "apa",
+        "sare",
+        "cuscus",
+        "ulei",
+        "ceapa rosie",
+        "morcovi",
+        "ardei capia",
+        "piper",
+        "dovlecel",
+        "sos de rosii",
+        "patrunjel"
+      ]
+    },
+    {
+      "Nume": "Salata tabbouleh",
+      "TimpPreparare": "25 min",
+      "Ingrediente": [
+        "apa",
+        "sare",
+        "cuscus",
+        "patrunjel",
+        "rosii",
+        "ceapa verde",
+        "menta",
+        "zeama de lamaie",
+        "ulei",
+        "piper"
+      ]
+    },
+    {
+      "Nume": "Tort cu trufe si portocale",
+      "TimpPreparare": "1 h 20 min",
+      "Ingrediente": [
+        "oua",
+        "zahar",
+        "ulei",
+        "faina",
+        "cacao",
+        "praf de copt",
+        "frisca lichida",
+        "miere",
+        "ciocolata",
+        "ciocolata cu lapte",
+        "unt",
+        "esenta de rom",
+        "coaja de portocala",
+        "portocale",
+        "cacao"
+      ]
+    },
+    {
+      "Nume": "Cotlet de porc umplut cu ciuperci si spanac",
+      "TimpPreparare": "2 h 20 min",
+      "Ingrediente": [
+        "cotlet de porc",
+        "ciuperci",
+        "ceapa",
+        "ulei de masline extravirgin",
+        "spanac",
+        "sare",
+        "piper",
+        "boia de ardei dulce",
+        "cimbru"
+      ]
+    },
+    {
+      "Nume": "Batoane cu crema de branza si verdeata",
+      "TimpPreparare": "2 h 0 min",
+      "Ingrediente": [
+        "lapte",
+        "drojdie",
+        "iaurt",
+        "albusuri",
+        "ulei",
+        "faina",
+        "sare",
+        "unt",
+        "branza proaspata",
+        "smantana",
+        "marar",
+        "patrunjel",
+        "ou",
+        "sare",
+        "piper",
+        "oregano",
+        "galbenusuri",
+        "seminte de susan"
+      ]
+    },
+    {
+      "Nume": "Biscuiti de post cu ciocolata",
+      "TimpPreparare": "35 min",
+      "Ingrediente": [
+        "faina",
+        "ciocolata",
+        "miez de nuca",
+        "praf de copt",
+        "zahar",
+        "ulei",
+        "zahar vanilat",
+        "lapte de migdale"
+      ]
+    },
+    {
+      "Nume": "Cheesecake cu merisoare",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "biscuiti digestivi",
+        "unt",
+        "fructe de padure",
+        "merisoare",
+        "branza mascarpone",
+        "crema de branza",
+        "frisca lichida",
+        "coaja de lamaie",
+        "zahar pudra",
+        "merisoare",
+        "coacaze negre",
+        "coacaze rosii"
+      ]
+    },
+    {
+      "Nume": "Fasole cu ciolan",
+      "TimpPreparare": "1 h 50 min",
+      "Ingrediente": [
+        "ciolan de porc",
+        "ulei",
+        "ceapa galbena",
+        "morcovi",
+        "radacina de patrunjel",
+        "sare",
+        "piper",
+        "oregano",
+        "sos de rosii",
+        "fasole alba in sos de rosii"
+      ]
+    },
+    {
+      "Nume": "Friptura de curcan, la tava servita cu cartofi la cuptor si ardei copti",
+      "TimpPreparare": "2 h 40 min",
+      "Ingrediente": [
+        "ardei copt",
+        "cartofi",
+        "usturoi granulat",
+        "ulei",
+        "oregano",
+        "sare",
+        "piper",
+        "pulpe de curcan",
+        "ulei",
+        "usturoi",
+        "oregano",
+        "sare",
+        "piper",
+        "vin alb"
+      ]
+    },
+    {
+      "Nume": "File de peste la cuptor in stil mediteranean",
+      "TimpPreparare": "25 min",
+      "Ingrediente": [
+        "peste file",
+        "ulei de masline",
+        "usturoi",
+        "capere",
+        "patrunjel",
+        "masline kalamata",
+        "rosii cherry",
+        "zeama de lamaie",
+        "sare",
+        "piper",
+        "chilli fulgi"
+      ]
+    },
+    {
+      "Nume": "Chiftele de linte",
+      "TimpPreparare": "1 h 5 min",
+      "Ingrediente": [
+        "ulei",
+        "ceapa rosie",
+        "usturoi",
+        "morcovi",
+        "sare",
+        "piper",
+        "linte",
+        "patrunjel",
+        "chilli fulgi",
+        "oregano",
+        "faina"
+      ]
+    },
+    {
+      "Nume": "Tort cu mousse de ciocolata si caramel",
+      "TimpPreparare": "1 h 20 min",
+      "Ingrediente": [
+        "galbenusuri",
+        "zahar",
+        "zahar vanilat",
+        "apa",
+        "albusuri",
+        "faina",
+        "cacao",
+        "praf de copt",
+        "apa",
+        "zahar",
+        "zahar vanilat",
+        "esenta de rom",
+        "ciocolata",
+        "frisca lichida",
+        "frisca"
+      ]
+    },
+    {
+      "Nume": "Salata calda de legume coapte",
+      "TimpPreparare": "40 min",
+      "Ingrediente": [
+        "cartofi albi",
+        "dovlecel",
+        "morcovi",
+        "ulei de masline",
+        "usturoi",
+        "sare",
+        "piper",
+        "patrunjel",
+        "lamaie"
+      ]
+    },
+    {
+      "Nume": "Cremsnit",
+      "TimpPreparare": "1 h 25 min",
+      "Ingrediente": [
+        "galbenusuri",
+        "zahar",
+        "amidon",
+        "zahar vanilat",
+        "lapte",
+        "unt",
+        "aluat foitaj",
+        "frisca lichida"
+      ]
+    },
+    {
+      "Nume": "Biscuiti in 2 culori",
+      "TimpPreparare": "1 h 36 min",
+      "Ingrediente": [
+        "unt",
+        "zahar pudra",
+        "zahar vanilat",
+        "oua",
+        "faina",
+        "praf de copt",
+        "turmeric",
+        "cacao"
+      ]
+    },
+    {
+      "Nume": "Hummus cu dovleac copt",
+      "TimpPreparare": "40 min",
+      "Ingrediente": [
+        "naut",
+        "dovleac",
+        "usturoi",
+        "ulei de masline",
+        "zeama de lamaie",
+        "tahini",
+        "cuburi de gheata",
+        "sare",
+        "chimion",
+        "chilli pudra",
+        "seminte de dovleac"
+      ]
+    },
+    {
+      "Nume": "Musaca cu carne de curcan",
+      "TimpPreparare": "2 h 40 min",
+      "Ingrediente": [
+        "cartof",
+        "sare",
+        "lapte",
+        "unt",
+        "carne tocata de curcan",
+        "ardei capia",
+        "morcovi",
+        "ceapa",
+        "sare",
+        "piper",
+        "oregano",
+        "sos de rosii",
+        "ulei",
+        "sos de rosii",
+        "rosie"
+      ]
+    },
+    {
+      "Nume": "Budinca de orez cu mere",
+      "TimpPreparare": "40 min",
+      "Ingrediente": [
+        "sirop de soc",
+        "mere golden",
+        "orez bob rotund",
+        "oua",
+        "zahar",
+        "pastaie de vanilie",
+        "unt",
+        "lapte"
+      ]
+    },
+    {
+      "Nume": "Tocanita de ceapa",
+      "TimpPreparare": "1 h 10 min",
+      "Ingrediente": [
+        "ceapa alba",
+        "unt",
+        "rosii",
+        "usturoi",
+        "ulei de floarea-soarelui",
+        "paine",
+        "vin alb",
+        "zahar",
+        "bulion"
+      ]
+    },
+    {
+      "Nume": "Mancarica de prune cu orez",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "compot de prune",
+        "prune uscate",
+        "orez bob lung",
+        "cascaval afumat",
+        "ceapa",
+        "unt",
+        "ulei de masline"
+      ]
+    },
+    {
+      "Nume": "Halva de casa",
+      "TimpPreparare": "25 min",
+      "Ingrediente": [
+        "lapte praf",
+        "zahar pudra",
+        "afinata",
+        "dulceata de afine",
+        "fistic",
+        "miez de nuca",
+        "tahini",
+        "susan",
+        "seminte de floarea-soarelui"
+      ]
+    },
+    {
+      "Nume": "Tarta cu nuci pecan",
+      "TimpPreparare": "2 h 0 min",
+      "Ingrediente": [
+        "faina",
+        "zahar pudra vanilat",
+        "zahar vanilat",
+        "unt",
+        "ou",
+        "zahar",
+        "unt",
+        "oua",
+        "sirop de agave",
+        "faina",
+        "nuci pecan",
+        "ciocolata"
+      ]
+    },
+    {
+      "Nume": "Hamburger cu bacon crocant si ou prajit",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "carne tocata de vita",
+        "branza cheddar",
+        "bacon",
+        "oua",
+        "chifle hamburger",
+        "salata verde",
+        "sos de rosii",
+        "maioneza",
+        "sare",
+        "piper",
+        "rosii",
+        "castraveti murati"
+      ]
+    },
+    {
+      "Nume": "Cheesecake stracciatella",
+      "TimpPreparare": "40 min",
+      "Ingrediente": [
+        "biscuiti Neo",
+        "unt",
+        "branza mascarpone",
+        "zahar pudra vanilat",
+        "zahar vanilat",
+        "frisca lichida",
+        "ciocolata",
+        "biscuiti Neo",
+        "biscuiti Neo",
+        "zmeura"
+      ]
+    },
+    {
+      "Nume": "Ciorba radauteana",
+      "TimpPreparare": "1 h 15 min",
+      "Ingrediente": [
+        "carne de pui",
+        "apa",
+        "sare",
+        "ceapa",
+        "pastarnac",
+        "morcovi",
+        "ardei capia",
+        "telina",
+        "smantana 20%",
+        "galbenusuri",
+        "usturoi",
+        "patrunjel",
+        "ardei iute"
+      ]
+    },
+    {
+      "Nume": "Friptura din antricot de vanat sous-vide cu legume si sos pentru vanat",
+      "TimpPreparare": "2 h 43 min",
+      "Ingrediente": [
+        "antricot de vanat",
+        "rozmarin",
+        "foi de dafin",
+        "esalota",
+        "sare",
+        "ulei",
+        "supa de carne",
+        "boabe de ienupar",
+        "cartofi",
+        "morcovi",
+        "amidon",
+        "gem de coacaze",
+        "unt",
+        "unt clarificat",
+        "piper",
+        "patrunjel"
+      ]
+    },
+    {
+      "Nume": "Sekana (chiftea ceheasca)",
+      "TimpPreparare": "3 h 7 min",
+      "Ingrediente": [
+        "bagheta",
+        "ceapa",
+        "unt",
+        "carne tocata",
+        "ou",
+        "sare",
+        "piper",
+        "rosii pasate",
+        "mustar",
+        "boia de ardei dulce",
+        "boia de ardei iute",
+        "supa de vita",
+        "ceapa",
+        "unt",
+        "faina",
+        "rosii pasate",
+        "supa de vita",
+        "mustar",
+        "melasa"
+      ]
+    },
+    {
+      "Nume": "Rijstevlaai (prajitura olandeza cu orez)",
+      "TimpPreparare": "3 h 55 min",
+      "Ingrediente": [
+        "unt",
+        "lapte",
+        "budinca de orez",
+        "gelatina alimentara",
+        "zahar",
+        "zahar vanilat",
+        "sare",
+        "oua",
+        "unt",
+        "lapte",
+        "drojdie",
+        "zahar",
+        "faina",
+        "sare"
+      ]
+    },
+    {
+      "Nume": "Gulas unguresc condimentat",
+      "TimpPreparare": "2 h 45 min",
+      "Ingrediente": [
+        "varza murata",
+        "ceapa",
+        "ulei",
+        "carne de porc",
+        "faina",
+        "supa de carne",
+        "boia de ardei dulce",
+        "boia de ardei iute",
+        "chimen",
+        "ienibahar",
+        "sare",
+        "piper negru",
+        "ardei gras rosu",
+        "smantana"
+      ]
+    },
+    {
+      "Nume": "Cartofi dulci la cuptor",
+      "TimpPreparare": "1 h 47 min",
+      "Ingrediente": [
+        "ceapa",
+        "telina",
+        "castane",
+        "cimbru",
+        "ulei de rapita",
+        "sare",
+        "piper",
+        "cartofi dulci",
+        "napi",
+        "lapte",
+        "branza feta",
+        "patrunjel"
+      ]
+    },
+    {
+      "Nume": "Muschiulet de porc cu sos de Gorgonzola cu mascarpone",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "muschiulet de porc",
+        "ceapa alba",
+        "branza gorgonzola",
+        "branza mascarpone",
+        "unt",
+        "usturoi",
+        "cimbru",
+        "smantana pentru gatit"
+      ]
+    },
+    {
+      "Nume": "Risotto alb cu Pecorino si galbenus",
+      "TimpPreparare": "30 min",
+      "Ingrediente": [
+        "orez pentru risotto",
+        "ceapa",
+        "oua",
+        "branza pecorino",
+        "unt",
+        "supa de legume",
+        "sare",
+        "piper"
+      ]
+    },
+    {
+      "Nume": "Tajine de pui",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "pulpe de pui",
+        "boia de ardei dulce",
+        "boia de ardei iute",
+        "morcov",
+        "telina",
+        "ceapa",
+        "curmale Medjoul",
+        "vin rosu",
+        "coriandru",
+        "chimen",
+        "ienibahar",
+        "ulei de masline",
+        "orez"
+      ]
+    },
+    {
+      "Nume": "Lasagna cu sos de branza Cremeux de Normandie",
+      "TimpPreparare": "60 min",
+      "Ingrediente": [
+        "lapte",
+        "unt",
+        "faina",
+        "branza cremeaux de normandie",
+        "foaie de lasagna",
+        "parmezan"
+      ]
+    },
+    {
+      "Nume": "Cartofi umpluti cu crema de branza si icre",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "cartofi albi noi",
+        "crema de branza",
+        "ulei de masline",
+        "unt",
+        "icre negre",
+        "icre rosii",
+        "sare",
+        "piper",
+        "ceapa verde"
+      ]
+    },
+    {
+      "Nume": "Supa crema de usturoi cu trufe",
+      "TimpPreparare": "45 min",
+      "Ingrediente": [
+        "cartofi",
+        "ceapa",
+        "usturoi",
+        "lapte",
+        "unt",
+        "ulei de masline cu trufe",
+        "sos de trufe alb",
+        "sos de trufe",
+        "sare cu trufe",
+        "bacon",
+        "bagheta"
+      ]
+    }
+  ]
 }
