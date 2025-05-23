@@ -112,7 +112,7 @@
       <AssemblyReference>UiPath.OCR.Activities</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="868.4000000000001,2200" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Main Sequence" sap:VirtualizedContainerService.HintSize="871.6,2086.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Name="htmlContent" />
       <Variable x:TypeArguments="x:String" Name="output" />
@@ -229,69 +229,54 @@
         </ActivityAction>
       </ui:ForEach.Body>
     </ui:ForEach>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="504,56.8" sap2010:WorkflowViewState.IdRef="CommentOut_1">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="467.2,164.8" sap2010:WorkflowViewState.IdRef="Sequence_5">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <Assign sap:VirtualizedContainerService.HintSize="433.6,104.8" sap2010:WorkflowViewState.IdRef="Assign_8">
-            <Assign.To>
-              <OutArgument x:TypeArguments="x:String">[output]</OutArgument>
-            </Assign.To>
-            <Assign.Value>
-              <InArgument x:TypeArguments="x:String">[String.Join(vbCrLf, recepeMatch.Select(Function(item) item.ToString()))]</InArgument>
-            </Assign.Value>
-          </Assign>
-        </Sequence>
-      </ui:CommentOut.Body>
-      <sap:WorkflowViewStateService.ViewState>
-        <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-          <x:Boolean x:Key="IsPinned">False</x:Boolean>
-        </scg:Dictionary>
-      </sap:WorkflowViewStateService.ViewState>
-    </ui:CommentOut>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="504,56.8" sap2010:WorkflowViewState.IdRef="CommentOut_2">
-      <ui:CommentOut.Body>
-        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="449.6,217.6" sap2010:WorkflowViewState.IdRef="Sequence_6">
-          <sap:WorkflowViewStateService.ViewState>
-            <scg:Dictionary x:TypeArguments="x:String, x:Object">
-              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
-            </scg:Dictionary>
-          </sap:WorkflowViewStateService.ViewState>
-          <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="../test.txt" sap:VirtualizedContainerService.HintSize="416,157.6" sap2010:WorkflowViewState.IdRef="WriteTextFile_1" Text="[output]" />
-        </Sequence>
-      </ui:CommentOut.Body>
-      <sap:WorkflowViewStateService.ViewState>
-        <scg:Dictionary x:TypeArguments="x:String, x:Object">
-          <x:Boolean x:Key="IsExpanded">False</x:Boolean>
-          <x:Boolean x:Key="IsPinned">False</x:Boolean>
-        </scg:Dictionary>
-      </sap:WorkflowViewStateService.ViewState>
-    </ui:CommentOut>
     <Assign sap:VirtualizedContainerService.HintSize="504,115.2" sap2010:WorkflowViewState.IdRef="Assign_9">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[htmlContent]</OutArgument>
       </Assign.To>
       <Assign.Value>
-        <InArgument x:TypeArguments="x:String" xml:space="preserve">["&lt;html&gt;
-&lt;head&gt;
-&lt;meta charset='UTF-8'&gt;
-&lt;style&gt;
-    body { font-family: sans-serif; }
-    li { margin-bottom: 10px; }
-&lt;/style&gt;
-&lt;/head&gt;
-&lt;body&gt;
-    &lt;h2&gt;Rețete potrivite&lt;/h2&gt;
-    &lt;ul&gt;" &amp; 
-    String.Join("", recepeMatch.Select(Function(r) "&lt;li&gt;&lt;a href='" &amp; r("link").ToString() &amp; "' target='_blank'&gt;&lt;b&gt;" &amp; r("name").ToString() &amp; "&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;🕒 " &amp; r("time").ToString() &amp; "&lt;br/&gt;🥬 Ingrediente: " &amp; String.Join(", ", CType(r("ingredients"), Newtonsoft.Json.Linq.JArray).Select(Function(i) i.ToString())) &amp; "&lt;/li&gt;")) &amp;
-    "&lt;/ul&gt;
-&lt;/body&gt;
-&lt;/html&gt;"]</InArgument>
+        <InArgument x:TypeArguments="x:String" xml:space="preserve">["&lt;html&gt;" &amp; 
+"&lt;head&gt;" &amp; 
+"&lt;meta charset='UTF-8'&gt;" &amp; 
+"&lt;link rel='stylesheet' href='style.css'&gt;" &amp; 
+"&lt;/head&gt;" &amp; 
+"&lt;body&gt;" &amp;  
+"&lt;form id='reteteForm' class='recipe-form'&gt;" &amp; 
+ "&lt;h2 class='title'&gt;Rețete potrivite&lt;/h2&gt;" &amp;
+"&lt;div class='recipe-container'&gt;" &amp; 
+String.Join("", recepeMatch.Select(Function(r) _
+  "&lt;div class='recipe-card'&gt;" &amp;
+  "&lt;label class='recipe-label'&gt;" &amp;
+  "&lt;input type='checkbox' name='reteta' value='" &amp; r("name").ToString() &amp; "' class='recipe-checkbox'&gt;" &amp;
+  "&lt;a href='" &amp; r("link").ToString() &amp; "' target='_blank' class='recipe-link'&gt;&lt;b&gt;" &amp; r("name").ToString() &amp; "&lt;/b&gt;&lt;/a&gt;&lt;br/&gt;" &amp;
+  "&lt;span class='recipe-time'&gt;🕒 " &amp; r("time").ToString() &amp; "&lt;/span&gt;&lt;br/&gt;" &amp;
+  "&lt;span class='recipe-ingredients'&gt;🥬 Ingrediente: " &amp;
+  String.Join("&lt;br/&gt;     - ", CType(r("ingredients"), Newtonsoft.Json.Linq.JArray).Select(Function(i) i.ToString().Replace("["c, "").Replace("]"c, "").Replace(""""c, "").Trim())) &amp; 
+  "&lt;/span&gt;&lt;/label&gt;&lt;/div&gt;"
+)) &amp;
+"&lt;/div&gt;" &amp;  
+"&lt;button type='button' onclick='salveaza()' class='export-button'&gt;Exportă ingredientele&lt;/button&gt;" &amp;
+"&lt;/form&gt;" &amp; 
+"&lt;script&gt;" &amp;
+"function salveaza() {" &amp;
+"  var selectate = [];" &amp;
+"  document.querySelectorAll('input[name=reteta]:checked').forEach(function(cb) {" &amp;
+"    var retetaNume = cb.value;" &amp;
+"    var label = cb.parentElement;" &amp;
+"    var ingredienteText = label.textContent.split('🥬 Ingrediente:')[1].trim();" &amp;
+"    ingredienteText = ingredienteText.replace(/[[]]/g, '').replace(/""/g, '');" &amp;
+"    var ingredienteArray = ingredienteText.split(', ').map(function(i) { return '     - ' + i.trim(); }).join('\n');" &amp;
+"    var continut = 'Pentru ' + retetaNume + ':\n' + ingredienteArray;" &amp;
+"    selectate.push(continut);" &amp;
+"  });" &amp;
+"  var blob = new Blob([selectate.join('\n\n')], {type: 'text/plain;charset=utf-8'});" &amp;
+"  var link = document.createElement('a');" &amp;
+"  link.href = URL.createObjectURL(blob);" &amp;
+"  link.download = 'retete_selectate.txt';" &amp;
+"  link.click();" &amp;
+"}" &amp;
+"&lt;/script&gt;" &amp;
+"&lt;/body&gt;" &amp;
+"&lt;/html&gt;"]</InArgument>
       </Assign.Value>
     </Assign>
     <ui:WriteTextFile File="{x:Null}" DisplayName="Write Text File" FileName="../retete.html" sap:VirtualizedContainerService.HintSize="504,166.4" sap2010:WorkflowViewState.IdRef="WriteTextFile_2" Text="[htmlContent]" />
