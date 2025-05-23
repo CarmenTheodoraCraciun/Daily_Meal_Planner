@@ -1,0 +1,439 @@
+{
+  "name": "Prajitura fondanta cu ciocolata",
+  "time": "50 min",
+  "ingredients": [
+    [
+      "ciocolata",
+      "unt",
+      "oua",
+      "zahar",
+      "esenta de rom",
+      "faina"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/prajitura-fondanta-cu-ciocolata"
+}
+{
+  "name": "Rulada cu crema de branza si dulceata de afine",
+  "time": "45 min",
+  "ingredients": [
+    [
+      "oua",
+      "zahar",
+      "zahar vanilat",
+      "dulceata de afine",
+      "faina",
+      "apa",
+      "zahar",
+      "zahar vanilat",
+      "esenta de rom",
+      "branza ricotta",
+      "zahar pudra",
+      "frisca lichida",
+      "dulceata de afine",
+      "afine"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/rulada-cu-crema-de-branza-si-dulceata-de-afine"
+}
+{
+  "name": "Placinta cu branza si spanac",
+  "time": "1 h 50 min",
+  "ingredients": [
+    [
+      "unt",
+      "ulei",
+      "ceapa verde",
+      "spanac",
+      "sare",
+      "piper",
+      "oregano",
+      "branza telemea",
+      "oua",
+      "patrunjel",
+      "aluat placinta",
+      "unt",
+      "ou"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/placinta-cu-branza-si-spanac"
+}
+{
+  "name": "Rulouri cu crema de ou si branza",
+  "time": "10 min",
+  "ingredients": [
+    [
+      "branza de vaca",
+      "iaurt grecesc",
+      "oua",
+      "marar",
+      "sare",
+      "piper",
+      "castravete"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/rulouri-cu-crema-de-ou-si-branza"
+}
+{
+  "name": "Pasca cu branza si glazura de ciocolata",
+  "time": "1 h 25 min",
+  "ingredients": [
+    [
+      "branza de vaca",
+      "iaurt grecesc",
+      "esenta de rom",
+      "zahar vanilat",
+      "unt",
+      "oua",
+      "zahar",
+      "praf de copt",
+      "amidon",
+      "frisca lichida",
+      "ciocolata neagra",
+      "fulgi de ciocolata"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/pasca-cu-branza-si-glazura-de-ciocolata"
+}
+{
+  "name": "Chec cu lamaie, cacao si ciocolata",
+  "time": "50 min",
+  "ingredients": [
+    [
+      "faina",
+      "zahar",
+      "oua",
+      "esenta de vanilie",
+      "ulei de floarea-soarelui",
+      "zeama de lamaie",
+      "coaja de lamaie",
+      "cacao",
+      "lapte",
+      "praf de copt",
+      "fulgi de ciocolata"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/chec-cu-lamaie-cacao-si-ciocolata"
+}
+{
+  "name": "Somon a la Provencal cu piure de cartofi si sos de ciuperci",
+  "time": "1 h 30 min",
+  "ingredients": [
+    [
+      "somon file",
+      "ciuperci",
+      "cartofi",
+      "unt",
+      "lapte",
+      "vin alb",
+      "cimbru",
+      "ceapa",
+      "sare",
+      "piper"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/somon-a-la-provencal-cu-piure-de-cartofi-si-sos-de-ciuperci"
+}
+{
+  "name": "Placinta greceasca cu branza feta",
+  "time": "1 h 15 min",
+  "ingredients": [
+    [
+      "branza gouda",
+      "branza feta",
+      "parmezan",
+      "oua",
+      "iaurt grecesc",
+      "marar",
+      "aluat foitaj",
+      "unt"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/placinta-greceasca-cu-branza-feta"
+}
+{
+  "name": "Prajitura cu crema de vanilie si cafea",
+  "time": "45 min",
+  "ingredients": [
+    [
+      "galbenusuri",
+      "zahar",
+      "amidon",
+      "lapte",
+      "zahar vanilat",
+      "unt",
+      "frisca",
+      "cafea instant",
+      "cacao",
+      "lapte",
+      "ciocolata",
+      "frisca lichida",
+      "biscuiti"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/prajitura-cu-crema-de-vanilie-si-cafea"
+}
+{
+  "name": "Tort cu trufe si portocale",
+  "time": "1 h 20 min",
+  "ingredients": [
+    [
+      "oua",
+      "zahar",
+      "ulei",
+      "faina",
+      "cacao",
+      "praf de copt",
+      "frisca lichida",
+      "miere",
+      "ciocolata",
+      "ciocolata cu lapte",
+      "unt",
+      "esenta de rom",
+      "coaja de portocala",
+      "portocale",
+      "cacao"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/tort-cu-trufe-si-portocale"
+}
+{
+  "name": "Batoane cu crema de branza si verdeata",
+  "time": "2 h 0 min",
+  "ingredients": [
+    [
+      "lapte",
+      "drojdie",
+      "iaurt",
+      "albusuri",
+      "ulei",
+      "faina",
+      "sare",
+      "unt",
+      "branza proaspata",
+      "smantana",
+      "marar",
+      "patrunjel",
+      "ou",
+      "sare",
+      "piper",
+      "oregano",
+      "galbenusuri",
+      "seminte de susan"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/batoane-cu-crema-de-branza-si-verdeata"
+}
+{
+  "name": "Cremsnit",
+  "time": "1 h 25 min",
+  "ingredients": [
+    [
+      "galbenusuri",
+      "zahar",
+      "amidon",
+      "zahar vanilat",
+      "lapte",
+      "unt",
+      "aluat foitaj",
+      "frisca lichida"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/cremsnit"
+}
+{
+  "name": "Biscuiti in 2 culori",
+  "time": "1 h 36 min",
+  "ingredients": [
+    [
+      "unt",
+      "zahar pudra",
+      "zahar vanilat",
+      "oua",
+      "faina",
+      "praf de copt",
+      "turmeric",
+      "cacao"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/biscuiti-in-2-culori"
+}
+{
+  "name": "Musaca cu carne de curcan",
+  "time": "2 h 40 min",
+  "ingredients": [
+    [
+      "cartof",
+      "sare",
+      "lapte",
+      "unt",
+      "carne tocata de curcan",
+      "ardei capia",
+      "morcovi",
+      "ceapa",
+      "sare",
+      "piper",
+      "oregano",
+      "sos de rosii",
+      "ulei",
+      "sos de rosii",
+      "rosie"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/musaca-cu-carne-de-curcan"
+}
+{
+  "name": "Budinca de orez cu mere",
+  "time": "40 min",
+  "ingredients": [
+    [
+      "sirop de soc",
+      "mere golden",
+      "orez bob rotund",
+      "oua",
+      "zahar",
+      "pastaie de vanilie",
+      "unt",
+      "lapte"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/budinca-de-orez-cu-mere"
+}
+{
+  "name": "Tarta cu nuci pecan",
+  "time": "2 h 0 min",
+  "ingredients": [
+    [
+      "faina",
+      "zahar pudra vanilat",
+      "zahar vanilat",
+      "unt",
+      "ou",
+      "zahar",
+      "unt",
+      "oua",
+      "sirop de agave",
+      "faina",
+      "nuci pecan",
+      "ciocolata"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/tarta-cu-nuci-pecan"
+}
+{
+  "name": "Hamburger cu bacon crocant si ou prajit",
+  "time": "30 min",
+  "ingredients": [
+    [
+      "carne tocata de vita",
+      "branza cheddar",
+      "bacon",
+      "oua",
+      "chifle hamburger",
+      "salata verde",
+      "sos de rosii",
+      "maioneza",
+      "sare",
+      "piper",
+      "rosii",
+      "castraveti murati"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/hamburger-cu-bacon-crocant-si-ou-prajit"
+}
+{
+  "name": "Rijstevlaai (prajitura olandeza cu orez)",
+  "time": "3 h 55 min",
+  "ingredients": [
+    [
+      "unt",
+      "lapte",
+      "budinca de orez",
+      "gelatina alimentara",
+      "zahar",
+      "zahar vanilat",
+      "sare",
+      "oua",
+      "unt",
+      "lapte",
+      "drojdie",
+      "zahar",
+      "faina",
+      "sare"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/rijstevlaai-prajitura-olandeza-cu-orez"
+}
+{
+  "name": "Cartofi dulci la cuptor",
+  "time": "1 h 47 min",
+  "ingredients": [
+    [
+      "ceapa",
+      "telina",
+      "castane",
+      "cimbru",
+      "ulei de rapita",
+      "sare",
+      "piper",
+      "cartofi dulci",
+      "napi",
+      "lapte",
+      "branza feta",
+      "patrunjel"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/cartofi-dulci-la-cuptor"
+}
+{
+  "name": "Risotto alb cu Pecorino si galbenus",
+  "time": "30 min",
+  "ingredients": [
+    [
+      "orez pentru risotto",
+      "ceapa",
+      "oua",
+      "branza pecorino",
+      "unt",
+      "supa de legume",
+      "sare",
+      "piper"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/risotto-alb-cu-pecorino-si-galbenus"
+}
+{
+  "name": "Lasagna cu sos de branza Cremeux de Normandie",
+  "time": "60 min",
+  "ingredients": [
+    [
+      "lapte",
+      "unt",
+      "faina",
+      "branza cremeaux de normandie",
+      "foaie de lasagna",
+      "parmezan"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/lasagna-cu-sos-de-branza-cremeux-de-normandie"
+}
+{
+  "name": "Supa crema de usturoi cu trufe",
+  "time": "45 min",
+  "ingredients": [
+    [
+      "cartofi",
+      "ceapa",
+      "usturoi",
+      "lapte",
+      "unt",
+      "ulei de masline cu trufe",
+      "sos de trufe alb",
+      "sos de trufe",
+      "sare cu trufe",
+      "bacon",
+      "bagheta"
+    ]
+  ],
+  "link": "https://bucataria.lidl.ro/retete/supa-crema-de-usturoi-cu-trufe"
+}
